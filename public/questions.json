@@ -1,0 +1,3216 @@
+[
+  {
+    "id": 1,
+    "question": "Latido de una arteria que se siente sobre una saliente ósea, cuando se contrae el ventrículo izquierdo.",
+    "options": {
+      "A": "Presión arterial sistólica",
+      "B": "Presión arterial diastólica",
+      "C": "Pulso arterial",
+      "D": "Taquicardia"
+    },
+    "correctAnswer": "C",
+    "explanation": "El pulso arterial es la onda palpable producida por la contracción del ventrículo izquierdo que se transmite a lo largo de las arterias y se percibe sobre salientes óseas.",
+    "requiresReview": false
+  },
+  {
+    "id": 2,
+    "question": "Pulso que se localiza en la parte interna de la muñeca, del lado del pulgar.",
+    "options": {
+      "A": "Humeral",
+      "B": "Radial",
+      "C": "Temporal",
+      "D": "Cubital"
+    },
+    "correctAnswer": "B",
+    "explanation": "El pulso radial se localiza en la cara interna de la muñeca, en el lado del pulgar (lado radial), sobre la arteria radial.",
+    "requiresReview": false
+  },
+  {
+    "id": 3,
+    "question": "El sistema cardiovascular está formado por:",
+    "options": {
+      "A": "Corazón, arterias, pulmones, arteriolas",
+      "B": "Corazón, venas, arterias, bronquios y bronquiolos",
+      "C": "Corazón, venas, capilares, vénulas, alveolos, pulmones",
+      "D": "Corazón, arterias, arteriolas, venas, capilares"
+    },
+    "correctAnswer": "D",
+    "explanation": "El sistema cardiovascular está compuesto por el corazón y los vasos sanguíneos: arterias, arteriolas, capilares, vénulas y venas. Los pulmones, bronquios y alveolos pertenecen al aparato respiratorio.",
+    "requiresReview": false
+  },
+  {
+    "id": 4,
+    "question": "El intercambio de oxígeno y bióxido de carbono que se da en los pulmones entre la sangre y las células, recibe el nombre de:",
+    "options": {
+      "A": "Inspiración",
+      "B": "Espiración",
+      "C": "Circulación",
+      "D": "Respiración"
+    },
+    "correctAnswer": "D",
+    "explanation": "La respiración incluye el intercambio gaseoso (hematosis) que ocurre en los alvéolos pulmonares, donde el O₂ pasa a la sangre y el CO₂ es eliminado.",
+    "requiresReview": false
+  },
+  {
+    "id": 5,
+    "question": "Factores externos que influyen en el estado de salud del ser humano.",
+    "options": {
+      "A": "El clima, creencias familiares y nivel de vida",
+      "B": "Herencia, raza y sexo",
+      "C": "Herencia, nivel de vida y sexo",
+      "D": "Creencias familiares, herencia y raza"
+    },
+    "correctAnswer": "A",
+    "explanation": "Los factores externos (extrínsecos) que influyen en la salud incluyen el clima, las creencias familiares/culturales y el nivel de vida socioeconómico. La herencia, la raza y el sexo son factores internos (intrínsecos).",
+    "requiresReview": false
+  },
+  {
+    "id": 6,
+    "question": "Promedio del pulso por minuto en recién nacido hasta el primer mes.",
+    "options": {
+      "A": "80 pulsaciones por minuto",
+      "B": "130 pulsaciones por minuto",
+      "C": "100 pulsaciones por minuto",
+      "D": "70 pulsaciones por minuto"
+    },
+    "correctAnswer": "B",
+    "explanation": "El promedio normal del pulso en recién nacidos hasta el primer mes de vida es de 120-160 latidos por minuto, siendo 130 la cifra representativa de ese rango.",
+    "requiresReview": false
+  },
+  {
+    "id": 7,
+    "question": "Para tomar la temperatura en la axila, usted debe dejar el termómetro en la misma durante:",
+    "options": {
+      "A": "3 minutos",
+      "B": "2 minutos",
+      "C": "5 minutos",
+      "D": "0.5 minutos"
+    },
+    "correctAnswer": "C",
+    "explanation": "La temperatura axilar requiere que el termómetro permanezca en la axila durante 5 minutos para obtener una lectura confiable.",
+    "requiresReview": false
+  },
+  {
+    "id": 8,
+    "question": "Cualquier actividad física que demande mayor cantidad de oxígeno, dará por resultado una respiración:",
+    "options": {
+      "A": "Más rápida y profunda",
+      "B": "Más lenta y superficial",
+      "C": "Lenta y profunda",
+      "D": "Rápida y superficial"
+    },
+    "correctAnswer": "A",
+    "explanation": "El ejercicio físico aumenta la demanda de O₂ y la producción de CO₂, lo que estimula el centro respiratorio, produciendo una respiración más rápida (taquipnea) y profunda (hiperpnea).",
+    "requiresReview": false
+  },
+  {
+    "id": 9,
+    "question": "El examen visual para descubrir anormalidades se llama:",
+    "options": {
+      "A": "Palpación",
+      "B": "Auscultación",
+      "C": "Inspección",
+      "D": "Percusión"
+    },
+    "correctAnswer": "C",
+    "explanation": "La inspección es la técnica de exploración física que utiliza la vista para observar y detectar anormalidades en el paciente.",
+    "requiresReview": false
+  },
+  {
+    "id": 10,
+    "question": "Para medir la presión arterial, el brazalete del esfigmomanómetro se envuelve de manera uniforme y con firmeza alrededor del brazo del paciente de forma que el borde inferior se encuentra a:",
+    "options": {
+      "A": "5.25 centímetros por encima del espacio cubital",
+      "B": "0.25 centímetros por debajo del espacio cubital",
+      "C": "2.5 centímetros por encima del espacio cubital",
+      "D": "5.25 centímetros por encima del espacio cubital"
+    },
+    "correctAnswer": "C",
+    "explanation": "El borde inferior del brazalete debe colocarse aproximadamente 2.5 cm (1 pulgada) por encima del espacio antecubital (fosa cubital) para permitir la correcta auscultación de los ruidos de Korotkoff.",
+    "requiresReview": false
+  },
+  {
+    "id": 11,
+    "question": "El uso correcto del cuerpo humano, recibe el nombre de:",
+    "options": {
+      "A": "Mecánica corporal",
+      "B": "Ejercicio activo",
+      "C": "Ejercicio pasivo",
+      "D": "Tono muscular"
+    },
+    "correctAnswer": "A",
+    "explanation": "La mecánica corporal es el uso eficiente, coordinado y seguro del cuerpo para producir movimiento y mantener el equilibrio durante la actividad, previniendo lesiones musculo-esqueléticas.",
+    "requiresReview": false
+  },
+  {
+    "id": 12,
+    "question": "Fórmula utilizada para convertir de grado Fahrenheit a Celsius:",
+    "options": {
+      "A": "(°F - 32) × 9/5",
+      "B": "(°C × 5/9) + 32",
+      "C": "(°F - 32) × 5/9",
+      "D": "(°C × 9/5) + 32"
+    },
+    "correctAnswer": "C",
+    "explanation": "La fórmula correcta para convertir Fahrenheit a Celsius es: °C = (°F - 32) × 5/9. La opción D convierte de Celsius a Fahrenheit.",
+    "requiresReview": false
+  },
+  {
+    "id": 13,
+    "question": "Síntoma de sensación de malestar físico y/o mental que causa molestia o sufrimiento y solo el paciente puede describir su intensidad y localización:",
+    "options": {
+      "A": "Obesidad",
+      "B": "Arritmia",
+      "C": "Bradipnea",
+      "D": "Dolor"
+    },
+    "correctAnswer": "D",
+    "explanation": "El dolor es una experiencia sensorial y emocional subjetiva desagradable, asociada a daño tisular real o potencial. Solo el paciente puede describir su intensidad y localización.",
+    "requiresReview": false
+  },
+  {
+    "id": 14,
+    "question": "Posición recomendada para pasar una sonda vesical en una mujer:",
+    "options": {
+      "A": "Trendelenburg",
+      "B": "Litotomía",
+      "C": "Sims",
+      "D": "Dorsal"
+    },
+    "correctAnswer": "B",
+    "explanation": "La posición de litotomía (ginecológica) es la posición de elección para el sondaje vesical femenino, ya que permite un buen acceso al meato urinario.",
+    "requiresReview": false
+  },
+  {
+    "id": 15,
+    "question": "Posición en que el paciente se apoya sobre sus rodillas, formando un ángulo de 90 grados con las caderas, que se utiliza para examen del recto, recibe el nombre de:",
+    "options": {
+      "A": "Sims",
+      "B": "Litotomía",
+      "C": "Genupectoral",
+      "D": "Supina"
+    },
+    "correctAnswer": "C",
+    "explanation": "La posición genupectoral (rodilla-pecho) es en la que el paciente se apoya sobre las rodillas y el pecho, formando 90° en las caderas, usada para examen anorrectal y colonoscopia.",
+    "requiresReview": false
+  },
+  {
+    "id": 16,
+    "question": "El sistema osteoarticular está formado por:",
+    "options": {
+      "A": "Huesos, articulaciones y músculos",
+      "B": "Huesos, músculos y ligamentos",
+      "C": "Huesos y tendones",
+      "D": "Huesos, articulaciones y ligamentos"
+    },
+    "correctAnswer": "D",
+    "explanation": "El sistema osteoarticular está formado por huesos, articulaciones y ligamentos. Los músculos y tendones pertenecen al sistema muscular.",
+    "requiresReview": false
+  },
+  {
+    "id": 17,
+    "question": "Cama que ha sido asignada para recibir a un paciente en el post quirúrgico inmediato se denomina:",
+    "options": {
+      "A": "Cerrada",
+      "B": "Abierta",
+      "C": "Diagonal",
+      "D": "Anestesia o recuperación"
+    },
+    "correctAnswer": "D",
+    "explanation": "La cama de anestesia o de recuperación es aquella preparada especialmente para recibir a un paciente que viene del quirófano, con características específicas para su monitoreo y seguridad.",
+    "requiresReview": false
+  },
+  {
+    "id": 18,
+    "question": "Factores que predisponen a las úlceras por decúbito.",
+    "options": {
+      "A": "Trastornos circulatorios y deshidratación",
+      "B": "Obesidad y pérdida de la sensibilidad",
+      "C": "A y B son falsas",
+      "D": "A y B son verdaderas"
+    },
+    "correctAnswer": "D",
+    "explanation": "Tanto los trastornos circulatorios/deshidratación como la obesidad y la pérdida de sensibilidad son factores de riesgo para úlceras por decúbito, por lo que ambas afirmaciones son verdaderas.",
+    "requiresReview": false
+  },
+  {
+    "id": 19,
+    "question": "Entre las normas para el registro de las observaciones de enfermería tenemos:",
+    "options": {
+      "A": "Constancia de fecha y hora",
+      "B": "Secuencia y firma",
+      "C": "A y B son verdaderas",
+      "D": "A y B son falsas"
+    },
+    "correctAnswer": "C",
+    "explanation": "Los registros de enfermería deben incluir fecha, hora, secuencia cronológica y firma del profesional que realiza el registro. Ambas opciones son correctas.",
+    "requiresReview": false
+  },
+  {
+    "id": 20,
+    "question": "El vómito del contenido del estómago siempre se considera anormal, un vómito de color pardo o café es indicativo de:",
+    "options": {
+      "A": "Presencia de bilis",
+      "B": "Sangrado gástrico",
+      "C": "Alimentos no digeridos",
+      "D": "Intoxicación por alimentos"
+    },
+    "correctAnswer": "B",
+    "explanation": "El vómito de color pardo o café (tipo 'borra de café') indica sangrado gástrico. La sangre al ser digerida por los ácidos gástricos adquiere ese color característico.",
+    "requiresReview": false
+  },
+  {
+    "id": 21,
+    "question": "Una observación importante que debe hacer la auxiliar de enfermería respecto a la circulación de la sangre de un paciente.",
+    "options": {
+      "A": "La presencia o ausencia de pulsos distales",
+      "B": "Piel fría y hormigueo",
+      "C": "A y B son verdaderas",
+      "D": "A y B son falsas"
+    },
+    "correctAnswer": "C",
+    "explanation": "Tanto la presencia/ausencia de pulsos distales como la temperatura de la piel y las parestesias (hormigueo) son signos importantes para evaluar la perfusión circulatoria de un paciente.",
+    "requiresReview": false
+  },
+  {
+    "id": 22,
+    "question": "Las heridas por su contenido microbiano se clasifican como:",
+    "options": {
+      "A": "Limpias",
+      "B": "Contaminadas y sépticas",
+      "C": "A y B son verdaderas",
+      "D": "A y B son falsas"
+    },
+    "correctAnswer": "C",
+    "explanation": "Las heridas según su contenido microbiano se clasifican en: limpias (sin contaminación), contaminadas (con presencia de microorganismos pero sin infección) y sépticas/infectadas.",
+    "requiresReview": false
+  },
+  {
+    "id": 23,
+    "question": "Al pesar a un paciente, el mismo pesa 80 kg. ¿Cuántas libras tiene?",
+    "options": {
+      "A": "166 libras",
+      "B": "176 libras",
+      "C": "276 libras",
+      "D": "106 libras"
+    },
+    "correctAnswer": "B",
+    "explanation": "Para convertir kg a libras se multiplica por 2.2: 80 × 2.2 = 176 libras.",
+    "requiresReview": false
+  },
+  {
+    "id": 24,
+    "question": "¿Cuándo debe el auxiliar de enfermería lavarse las manos?",
+    "options": {
+      "A": "Al iniciar y finalizar el turno",
+      "B": "Cuando termina de conversar con el paciente",
+      "C": "Antes de administrar un medicamento",
+      "D": "A y C son correctas"
+    },
+    "correctAnswer": "D",
+    "explanation": "El lavado de manos debe realizarse al inicio y fin del turno, antes de cualquier procedimiento (incluida la administración de medicamentos), después del contacto con el paciente, y ante cualquier riesgo de contaminación.",
+    "requiresReview": false
+  },
+  {
+    "id": 25,
+    "question": "Medicamentos que se usan para aumentar la cantidad de orina que se elimina.",
+    "options": {
+      "A": "Laxantes",
+      "B": "Expectorantes",
+      "C": "Antibióticos",
+      "D": "Diuréticos"
+    },
+    "correctAnswer": "D",
+    "explanation": "Los diuréticos son medicamentos que aumentan la producción y eliminación de orina, usados en hipertensión, insuficiencia cardíaca y edema. (Nota: en el original dice 'Directicos', corrección de OCR).",
+    "requiresReview": false
+  },
+  {
+    "id": 26,
+    "question": "Los analgésicos son medicamentos que se utilizan para:",
+    "options": {
+      "A": "Bajar la temperatura",
+      "B": "Aliviar el dolor",
+      "C": "Estimular la eliminación de la diuresis",
+      "D": "Bajar la presión arterial"
+    },
+    "correctAnswer": "B",
+    "explanation": "Los analgésicos son fármacos cuya función principal es aliviar o eliminar el dolor sin producir pérdida de conciencia.",
+    "requiresReview": false
+  },
+  {
+    "id": 27,
+    "question": "Factores que determinan la selección de la zona anatómica para la administración de una inyección IM (intramuscular).",
+    "options": {
+      "A": "Anatómicamente segura, alejada de grandes nervios",
+      "B": "Libres de ulceraciones y erosiones",
+      "C": "A y B son correctas",
+      "D": "A y B son falsas"
+    },
+    "correctAnswer": "C",
+    "explanation": "Para seleccionar el sitio de inyección intramuscular se debe elegir un área anatómicamente segura alejada de nervios y vasos importantes, y que esté libre de lesiones cutáneas.",
+    "requiresReview": false
+  },
+  {
+    "id": 28,
+    "question": "Las vías urinarias están formadas por:",
+    "options": {
+      "A": "Riñones, uréteres, vagina, pene y vejiga",
+      "B": "Riñones, uréteres, vejiga, clítoris y labios mayores",
+      "C": "Riñones, uréteres, vejiga y uretra",
+      "D": "Riñones, trompas, útero y vagina"
+    },
+    "correctAnswer": "C",
+    "explanation": "Las vías urinarias están formadas por los riñones (donde se produce la orina), los uréteres (que la conducen), la vejiga (donde se almacena) y la uretra (por donde se elimina).",
+    "requiresReview": false
+  },
+  {
+    "id": 29,
+    "question": "A un paciente con estreñimiento, usted le recomendaría:",
+    "options": {
+      "A": "Tomar 8 vasos de agua diarios y aumentar el consumo de frutas",
+      "B": "Disminuir la ingesta de agua y aumentar el consumo de frutas",
+      "C": "Evitar el consumo de sal",
+      "D": "Caminar poco"
+    },
+    "correctAnswer": "A",
+    "explanation": "Para el estreñimiento se recomienda una ingesta adecuada de líquidos (al menos 8 vasos diarios) y una dieta rica en fibra (frutas, verduras), junto con actividad física.",
+    "requiresReview": false
+  },
+  {
+    "id": 30,
+    "question": "Razones para colocar a un paciente una sonda nasogástrica.",
+    "options": {
+      "A": "Establecer un medio para drenar el estómago por aspiración o caída libre",
+      "B": "Tomar muestra del contenido del estómago con fines diagnósticos y establecer una vía para alimentación",
+      "C": "A y B son correctas",
+      "D": "A y B son falsas"
+    },
+    "correctAnswer": "C",
+    "explanation": "La sonda nasogástrica tiene múltiples indicaciones: drenaje gástrico, alimentación enteral y toma de muestras para diagnóstico. Ambas opciones son correctas.",
+    "requiresReview": false
+  },
+  {
+    "id": 31,
+    "question": "Cuando usted se dirige a un paciente debe llamarlo:",
+    "options": {
+      "A": "Por su nombre",
+      "B": "Por el número de la cama",
+      "C": "Por el diagnóstico",
+      "D": "Por la especialidad que pertenece su enfermedad"
+    },
+    "correctAnswer": "A",
+    "explanation": "El paciente debe ser llamado por su nombre como principio de humanización y respeto a su dignidad. Llamarle por número de cama o diagnóstico despersonaliza la atención.",
+    "requiresReview": false
+  },
+  {
+    "id": 32,
+    "question": "Cuidados que el auxiliar de enfermería debe dar a un paciente con fiebre.",
+    "options": {
+      "A": "Valorar la temperatura y administrar analgésicos",
+      "B": "Valorar la temperatura y administrar antipiréticos según prescripción",
+      "C": "Bañar con agua helada",
+      "D": "Suspender la administración de líquidos"
+    },
+    "correctAnswer": "B",
+    "explanation": "Ante un paciente febril se debe valorar la temperatura y administrar antipiréticos (no analgésicos) según prescripción médica. El baño con agua helada puede causar vasoconstricción y empeorar el estado.",
+    "requiresReview": false
+  },
+  {
+    "id": 33,
+    "question": "Inyección en la cual se administra una pequeña cantidad de líquido en la capa dérmica de la piel.",
+    "options": {
+      "A": "Intradérmica",
+      "B": "Subcutánea",
+      "C": "Intramuscular",
+      "D": "Tópica"
+    },
+    "correctAnswer": "A",
+    "explanation": "La inyección intradérmica (ID) deposita pequeñas cantidades de líquido (0.1-0.5 ml) directamente en la dermis. Se usa para pruebas diagnósticas como la tuberculina (PPD).",
+    "requiresReview": false
+  },
+  {
+    "id": 34,
+    "question": "La inyección intragluteа se administra en el cuadrante superior externo, para evitar puncionar el nervio:",
+    "options": {
+      "A": "Radial",
+      "B": "Ciático",
+      "C": "Tibial",
+      "D": "Braquial"
+    },
+    "correctAnswer": "B",
+    "explanation": "La inyección intragluteа debe aplicarse en el cuadrante superior externo del glúteo para evitar lesionar el nervio ciático, que discurre por la región inferior del glúteo.",
+    "requiresReview": false
+  },
+  {
+    "id": 35,
+    "question": "Al administrar un medicamento en el músculo deltoides, la cantidad máxima de líquido que debe administrarse es de:",
+    "options": {
+      "A": "0.3 cc",
+      "B": "3 cc",
+      "C": "5 cc",
+      "D": "1 cc"
+    },
+    "correctAnswer": "D",
+    "explanation": "El músculo deltoides es pequeño y solo acepta hasta 1 cc (1 ml) de líquido. Para volúmenes mayores se debe usar el glúteo u otros sitios.",
+    "requiresReview": false
+  },
+  {
+    "id": 36,
+    "question": "Al Sr. JL le indicaron 500 cc de solución mixta para pasar en 12 horas. ¿Cuántas gotas deben pasar por minuto?",
+    "options": {
+      "A": "13.8 gotas/min",
+      "B": "1.38 gotas/min",
+      "C": "138 gotas/min",
+      "D": "38 gotas/min"
+    },
+    "correctAnswer": "A",
+    "explanation": "Fórmula: gotas/min = (volumen ml × 20 gotas/ml) / (tiempo en minutos). = (500 × 20) / (12 × 60) = 10,000 / 720 = 13.8 gotas/min.",
+    "requiresReview": false
+  },
+  {
+    "id": 37,
+    "question": "¿Cuántas microgotas hay en 1 cc?",
+    "options": {
+      "A": "10 microgotas",
+      "B": "60 microgotas",
+      "C": "180 microgotas",
+      "D": "20 microgotas"
+    },
+    "correctAnswer": "B",
+    "explanation": "1 cc equivale a 20 gotas (con macrogotero). Como 1 gota = 3 microgotas, entonces 1 cc = 20 × 3 = 60 microgotas.",
+    "requiresReview": false
+  },
+  {
+    "id": 38,
+    "question": "¿Cuántos cc tiene una pinta de sangre?",
+    "options": {
+      "A": "150 cc",
+      "B": "500 cc",
+      "C": "1500 cc",
+      "D": "50 cc"
+    },
+    "correctAnswer": "B",
+    "explanation": "Una pinta de sangre equivale a 500 cc (mililitros), que es la unidad estándar de una bolsa de donación de sangre.",
+    "requiresReview": false
+  },
+  {
+    "id": 39,
+    "question": "Al niño JM le indicaron 30 miligramos de gentamicina. La gentamicina que hay en el hospital es de 80 miligramos diluidos en 2 cc de agua para inyección. ¿Qué cantidad en cc debe administrarle?",
+    "options": {
+      "A": "0.5 cc",
+      "B": "0.75 cc",
+      "C": "2.5 cc",
+      "D": "1.25 cc"
+    },
+    "correctAnswer": "B",
+    "explanation": "Fórmula: X = (Dosis indicada × Disolvente) / Soluto = (30 mg × 2 cc) / 80 mg = 60/80 = 0.75 cc.",
+    "requiresReview": false
+  },
+  {
+    "id": 40,
+    "question": "Si al administrar un medicamento por vía endovenosa el paciente se queja de náuseas, presenta vómitos y picazón en el cuerpo, usted procederá:",
+    "options": {
+      "A": "Administrar el medicamento de forma más lenta",
+      "B": "Retirar y canalizar otra vena",
+      "C": "Suspender y avisar al médico",
+      "D": "Descartar el medicamento y preparar otro más diluido y administrarlo nuevamente"
+    },
+    "correctAnswer": "C",
+    "explanation": "Las náuseas, vómitos y prurito durante la administración IV sugieren una reacción adversa o alérgica. La acción correcta es suspender inmediatamente la infusión y notificar al médico.",
+    "requiresReview": false
+  },
+  {
+    "id": 41,
+    "question": "Posición recomendada en un paciente bajo los efectos de la anestesia general.",
+    "options": {
+      "A": "Dorsal con la cabeza hacia abajo",
+      "B": "Fowler",
+      "C": "Prona",
+      "D": "Trendelenburg"
+    },
+    "correctAnswer": "A",
+    "explanation": "El paciente bajo anestesia general se coloca en decúbito dorsal con la cabeza ladeada (o en posición lateral de seguridad) para prevenir la aspiración de secreciones o vómito.",
+    "requiresReview": false
+  },
+  {
+    "id": 42,
+    "question": "El porcentaje de líquido corporal varía según:",
+    "options": {
+      "A": "Edad y sexo",
+      "B": "Cantidad de grasa",
+      "C": "A y B son verdaderas",
+      "D": "A y B son falsas"
+    },
+    "correctAnswer": "C",
+    "explanation": "El porcentaje de agua corporal varía según la edad (mayor en neonatos), el sexo (mayor en hombres) y la composición corporal (el tejido adiposo tiene menor contenido de agua).",
+    "requiresReview": false
+  },
+  {
+    "id": 43,
+    "question": "La presencia de sangre en la orina recibe el nombre de:",
+    "options": {
+      "A": "Hematemesis",
+      "B": "Melena",
+      "C": "Hematuria",
+      "D": "Glucosuria"
+    },
+    "correctAnswer": "C",
+    "explanation": "La hematuria es la presencia de sangre (eritrocitos) en la orina. La hematemesis es vómito de sangre y la melena son heces negras por sangre digerida.",
+    "requiresReview": false
+  },
+  {
+    "id": 44,
+    "question": "Complicaciones que puede presentar un usuario post-quirúrgico:",
+    "options": {
+      "A": "Náuseas, vómitos, dolor y hemorragia",
+      "B": "Choques hipovolémicos y cólicos",
+      "C": "A y B son verdaderas",
+      "D": "A y B son falsas"
+    },
+    "correctAnswer": "C",
+    "explanation": "Las complicaciones post-quirúrgicas inmediatas incluyen náuseas, vómitos, dolor, hemorragia, choque hipovolémico y cólicos. Todas las opciones A y B son complicaciones válidas.",
+    "requiresReview": false
+  },
+  {
+    "id": 45,
+    "question": "El adulto promedio suele orinar en 24 horas:",
+    "options": {
+      "A": "1000 a 2000 ml",
+      "B": "500 a 1500 ml",
+      "C": "1000 a 1200 ml",
+      "D": "500 a 1000 ml"
+    },
+    "correctAnswer": "A",
+    "explanation": "La diuresis normal en el adulto es de 1000 a 2000 ml en 24 horas (promedio 1500 ml/día).",
+    "requiresReview": false
+  },
+  {
+    "id": 46,
+    "question": "Medidas utilizadas para prevenir la rabia en una persona mordida por un perro sospechoso de tener la enfermedad.",
+    "options": {
+      "A": "Lavar inmediatamente la herida con agua y jabón, aproximadamente durante 5 minutos",
+      "B": "Matar al perro",
+      "C": "Suturar inmediatamente la herida",
+      "D": "Aplicar pomadas con antibióticos en la herida y suturarla"
+    },
+    "correctAnswer": "A",
+    "explanation": "La primera medida ante una mordedura de animal sospechoso de rabia es lavar abundantemente la herida con agua y jabón durante al menos 5-10 minutos, luego acudir a vacunación antirrábica.",
+    "requiresReview": false
+  },
+  {
+    "id": 47,
+    "question": "Conocer el estilo de vida de la persona es importante en la valoración clínica, ya que proporciona información para:",
+    "options": {
+      "A": "Planificar la promoción de la salud",
+      "B": "Conocer hábitos de alimentos y patrones de sueños",
+      "C": "Todas son falsas",
+      "D": "Todas son verdaderas"
+    },
+    "correctAnswer": "D",
+    "explanation": "El estilo de vida proporciona información integral que permite planificar la promoción de la salud y conocer hábitos alimentarios, patrones de sueño y otros factores relevantes para el cuidado.",
+    "requiresReview": false
+  },
+  {
+    "id": 48,
+    "question": "Responsabilidad del personal de enfermería en exámenes y pruebas diagnósticas.",
+    "options": {
+      "A": "Preparar al paciente para el examen",
+      "B": "Preparar el equipo",
+      "C": "Colocar al paciente en la posición que prefiera y se sienta cómodo",
+      "D": "A, B y C son correctas"
+    },
+    "correctAnswer": "D",
+    "explanation": "El personal de enfermería debe preparar al paciente (informar y posicionar correctamente), preparar el equipo necesario, y asegurar la comodidad del paciente durante procedimientos diagnósticos.",
+    "requiresReview": false
+  },
+  {
+    "id": 49,
+    "question": "Documento en el cual se hace una relación escrita de los antecedentes, problemas de salud, diagnóstico, tratamiento y evolución del paciente:",
+    "options": {
+      "A": "Censo diario",
+      "B": "Reporte de turno",
+      "C": "Expediente clínico",
+      "D": "Hoja de ingreso"
+    },
+    "correctAnswer": "C",
+    "explanation": "El expediente clínico (historia clínica) es el documento legal que contiene toda la información del paciente: antecedentes, diagnósticos, tratamientos y evolución.",
+    "requiresReview": false
+  },
+  {
+    "id": 50,
+    "question": "Estudio de orina que se realiza con el propósito de identificar microorganismos.",
+    "options": {
+      "A": "Carpológico",
+      "B": "Coprocultivo",
+      "C": "Urocultivo",
+      "D": "Hemocultivo"
+    },
+    "correctAnswer": "C",
+    "explanation": "El urocultivo es el cultivo de orina que permite identificar microorganismos patógenos causantes de infecciones urinarias.",
+    "requiresReview": false
+  },
+  {
+    "id": 51,
+    "question": "Las fracturas de acuerdo al tipo de rotura pueden ser:",
+    "options": {
+      "A": "Penetrantes y punzantes",
+      "B": "En tallo verde",
+      "C": "Completas e incompletas",
+      "D": "B y C son correctas"
+    },
+    "correctAnswer": "D",
+    "explanation": "Las fracturas según el tipo de rotura se clasifican en completas, incompletas (en tallo verde, por fisura, etc.). Las fracturas en tallo verde son un tipo de fractura incompleta común en niños.",
+    "requiresReview": false
+  },
+  {
+    "id": 52,
+    "question": "La dieta que consiste en alimentos que necesitan masticarse poco y no contienen fibras duras ni comidas muy condimentadas, indicada en personas con problemas gástricos o intestinales, recibe el nombre de:",
+    "options": {
+      "A": "Líquida",
+      "B": "Dieta balanceada",
+      "C": "Suave",
+      "D": "Normal o regular"
+    },
+    "correctAnswer": "C",
+    "explanation": "La dieta blanda o suave está compuesta por alimentos de fácil masticación y digestión, sin fibras duras ni condimentos, indicada en pacientes con patologías digestivas.",
+    "requiresReview": false
+  },
+  {
+    "id": 53,
+    "question": "Vitamina que promueve el crecimiento de dientes y huesos.",
+    "options": {
+      "A": "B",
+      "B": "D",
+      "C": "A",
+      "D": "C"
+    },
+    "correctAnswer": "B",
+    "explanation": "La vitamina D es esencial para la absorción del calcio y el fósforo, fundamentales para el crecimiento y mineralización de huesos y dientes.",
+    "requiresReview": false
+  },
+  {
+    "id": 54,
+    "question": "Vitamina necesaria para la coagulación de la sangre.",
+    "options": {
+      "A": "A",
+      "B": "K",
+      "C": "E",
+      "D": "D"
+    },
+    "correctAnswer": "B",
+    "explanation": "La vitamina K es esencial para la síntesis de los factores de coagulación (II, VII, IX y X), por lo que su déficit produce problemas de coagulación.",
+    "requiresReview": false
+  },
+  {
+    "id": 55,
+    "question": "Mineral muy importante para formar la hemoglobina de los glóbulos rojos y prevenir la anemia nutricional.",
+    "options": {
+      "A": "Calcio (Ca)",
+      "B": "Hierro (Fe)",
+      "C": "Fósforo (Fe)",
+      "D": "Magnesio (Mg)"
+    },
+    "correctAnswer": "B",
+    "explanation": "El hierro (Fe) es el componente principal del grupo hemo de la hemoglobina. Su deficiencia causa anemia ferropénica (anemia por deficiencia de hierro).",
+    "requiresReview": false
+  },
+  {
+    "id": 56,
+    "question": "Nutriente más importante del cuerpo humano y componente de la mayor parte de los alimentos, que además sirve de vehículo de absorción.",
+    "options": {
+      "A": "Agua",
+      "B": "Carbohidratos",
+      "C": "Grasas",
+      "D": "Minerales"
+    },
+    "correctAnswer": "A",
+    "explanation": "El agua es el nutriente más abundante e importante del organismo (60-70% del peso corporal), imprescindible para todas las funciones biológicas incluyendo la absorción de nutrientes.",
+    "requiresReview": false
+  },
+  {
+    "id": 57,
+    "question": "Entre los problemas comunes relacionados con la nutrición del ser humano tenemos:",
+    "options": {
+      "A": "Desnutrición y obesidad",
+      "B": "Falta de apetito y anorexia",
+      "C": "Polifagia",
+      "D": "Vómitos y náuseas"
+    },
+    "correctAnswer": "A",
+    "explanation": "Los problemas nutricionales más comunes a nivel de salud pública son la desnutrición (déficit de nutrientes) y la obesidad (exceso calórico), siendo las dos caras de la malnutrición.",
+    "requiresReview": false
+  },
+  {
+    "id": 58,
+    "question": "Cuando el auxiliar de enfermería da cuidados a una persona que padece indigestión, anorexia, náuseas o vómitos, entre los datos más importantes que debe conocer tenemos:",
+    "options": {
+      "A": "Origen de las molestias y si toma algún medicamento",
+      "B": "Relación con los hábitos alimentarios",
+      "C": "A y B son verdaderas",
+      "D": "A y B son falsas"
+    },
+    "correctAnswer": "C",
+    "explanation": "Para valorar problemas digestivos es importante conocer tanto el origen de las molestias y medicamentos actuales, como la relación con los hábitos alimentarios. Ambos datos son relevantes.",
+    "requiresReview": false
+  },
+  {
+    "id": 59,
+    "question": "Los hábitos alimentarios se relacionan con:",
+    "options": {
+      "A": "Creencias religiosas y morales",
+      "B": "Creencias culturales",
+      "C": "A y B son falsas",
+      "D": "A y B son verdaderas"
+    },
+    "correctAnswer": "D",
+    "explanation": "Los hábitos alimentarios están íntimamente relacionados tanto con las creencias religiosas y morales como con las creencias culturales de cada individuo y comunidad.",
+    "requiresReview": false
+  },
+  {
+    "id": 60,
+    "question": "La presencia de azúcar en la orina es un problema frecuente en los pacientes con:",
+    "options": {
+      "A": "Cirrosis hepática",
+      "B": "Úlcera péptica",
+      "C": "Gastritis",
+      "D": "Diabetes"
+    },
+    "correctAnswer": "D",
+    "explanation": "La glucosuria (azúcar en orina) es característica de la diabetes mellitus, cuando los niveles de glucosa sanguínea superan el umbral renal de reabsorción.",
+    "requiresReview": false
+  },
+  {
+    "id": 61,
+    "question": "Orientación que debe dar el personal de enfermería a una persona con hipertensión:",
+    "options": {
+      "A": "Cuidados de los pies",
+      "B": "Dieta baja en calorías",
+      "C": "Dieta baja de sal",
+      "D": "No hacer ejercicio para que pueda aumentar de peso"
+    },
+    "correctAnswer": "C",
+    "explanation": "La educación principal para el paciente hipertenso incluye la dieta hiposódica (baja en sal/sodio), ya que el sodio aumenta la retención de líquidos y eleva la presión arterial.",
+    "requiresReview": false
+  },
+  {
+    "id": 62,
+    "question": "Ascitis significa presencia de líquido en:",
+    "options": {
+      "A": "El tórax",
+      "B": "La cavidad abdominal",
+      "C": "Los pulmones",
+      "D": "El hígado"
+    },
+    "correctAnswer": "B",
+    "explanation": "La ascitis es la acumulación de líquido en la cavidad peritoneal (abdominal), frecuente en cirrosis hepática, insuficiencia cardíaca y neoplasias.",
+    "requiresReview": false
+  },
+  {
+    "id": 63,
+    "question": "Enzima que se produce en el páncreas:",
+    "options": {
+      "A": "Testosterona",
+      "B": "Insulina",
+      "C": "FSH",
+      "D": "LDH"
+    },
+    "correctAnswer": "B",
+    "explanation": "La insulina es producida por las células beta de los islotes de Langerhans en el páncreas. Es la hormona clave en la regulación de la glucosa sanguínea.",
+    "requiresReview": false
+  },
+  {
+    "id": 64,
+    "question": "Disposición adecuada de la ropa sucia, precauciones con las agujas y vacunación, son acciones que toma el auxiliar para prevenir:",
+    "options": {
+      "A": "Gastritis",
+      "B": "Cáncer de estómago",
+      "C": "Leucemia",
+      "D": "Hepatitis"
+    },
+    "correctAnswer": "D",
+    "explanation": "El manejo adecuado de ropa con sangre, el cuidado con agujas (riesgo de pinchazo) y la vacunación son medidas de bioseguridad para prevenir la hepatitis B (transmitida por sangre y fluidos).",
+    "requiresReview": false
+  },
+  {
+    "id": 65,
+    "question": "Entre las funciones del auxiliar de enfermería cuando circula en el quirófano:",
+    "options": {
+      "A": "Ubicar correctamente las mesas auxiliares, mesa de mayo, conexiones eléctricas, succionadores y cauterizador",
+      "B": "Pasar instrumentos y materiales estériles al cirujano",
+      "C": "Ayudar al cirujano a realizar la sutura",
+      "D": "Todas son correctas"
+    },
+    "correctAnswer": "A",
+    "explanation": "El auxiliar circulante (no instrumentista) se encarga de ubicar y preparar el equipamiento (mesas, equipos eléctricos, succión). Es el instrumentista quien pasa los instrumentos al cirujano.",
+    "requiresReview": false
+  },
+  {
+    "id": 66,
+    "question": "Los objetivos del tratamiento en un paciente con hipertensión son:",
+    "options": {
+      "A": "Mantener la presión dentro de los límites normales y reducir daños en los riñones, ojos y corazón",
+      "B": "Aumentar las actividades del corazón",
+      "C": "Eliminar microorganismos",
+      "D": "Mantener orientado al paciente"
+    },
+    "correctAnswer": "A",
+    "explanation": "El objetivo del tratamiento antihipertensivo es normalizar la presión arterial y prevenir daño en órganos blanco: corazón, riñones, cerebro y ojos.",
+    "requiresReview": false
+  },
+  {
+    "id": 67,
+    "question": "Actividades que el auxiliar de enfermería realiza en el cuidado postquirúrgico inmediato al usuario son:",
+    "options": {
+      "A": "Chequeo de signos vitales cada 15 min, soluciones, apósitos y piel",
+      "B": "Chequear soluciones y presión venosa",
+      "C": "Pesar al usuario y realizar curas",
+      "D": "Retirar tubo endotraqueal y sonda vesical"
+    },
+    "correctAnswer": "A",
+    "explanation": "En el postoperatorio inmediato se monitorean signos vitales cada 15 minutos, se revisan las soluciones IV, los apósitos quirúrgicos y el estado de la piel del paciente.",
+    "requiresReview": false
+  },
+  {
+    "id": 68,
+    "question": "Controlar la ingestión de líquidos, filtrar la orina y aliviar el dolor. Son cuidados de enfermería en el paciente con:",
+    "options": {
+      "A": "Pielonefritis",
+      "B": "Cistitis",
+      "C": "Litiasis o cálculos renales",
+      "D": "Uretritis"
+    },
+    "correctAnswer": "C",
+    "explanation": "En la litiasis renal (cálculos) se controla la ingesta de líquidos, se filtra la orina para detectar los cálculos expulsados y se maneja el dolor (cólico nefrítico).",
+    "requiresReview": false
+  },
+  {
+    "id": 69,
+    "question": "La rotura de un hueso recibe el nombre de:",
+    "options": {
+      "A": "Osteomielitis",
+      "B": "Artritis",
+      "C": "Fractura",
+      "D": "Esguince"
+    },
+    "correctAnswer": "C",
+    "explanation": "La fractura es la pérdida de continuidad del tejido óseo (rotura de un hueso) debido a un traumatismo o enfermedad.",
+    "requiresReview": false
+  },
+  {
+    "id": 70,
+    "question": "Rama de la medicina que estudia las enfermedades mentales, emocionales o de la conducta.",
+    "options": {
+      "A": "Fisiología",
+      "B": "Sociología",
+      "C": "Psiquiatría",
+      "D": "Psicología"
+    },
+    "correctAnswer": "C",
+    "explanation": "La psiquiatría es la especialidad médica que estudia, diagnostica, trata y previene los trastornos mentales y de la conducta.",
+    "requiresReview": false
+  },
+  {
+    "id": 71,
+    "question": "Enfermedad caracterizada por hipertensión, edema y proteinuria, que ocurre principalmente al final del embarazo y que puede prevenirse con un adecuado control prenatal.",
+    "options": {
+      "A": "Menarquía",
+      "B": "Toxemia",
+      "C": "Aborto",
+      "D": "Amenorrea"
+    },
+    "correctAnswer": "B",
+    "explanation": "La toxemia del embarazo (preeclampsia/eclampsia) se caracteriza por la tríada: hipertensión, edema y proteinuria, con riesgo para madre y feto si no se controla.",
+    "requiresReview": false
+  },
+  {
+    "id": 72,
+    "question": "La osteoporosis es una enfermedad que se caracteriza por pérdida de la masa ósea, que lleva a fracturas fáciles por traumatismos menores, y se presenta con mayor frecuencia en:",
+    "options": {
+      "A": "Adolescentes",
+      "B": "Adultos jóvenes",
+      "C": "Adultos mayores",
+      "D": "Niños menores"
+    },
+    "correctAnswer": "C",
+    "explanation": "La osteoporosis afecta principalmente a adultos mayores, especialmente mujeres postmenopáusicas, debido a la disminución de estrógenos y la reducción de la densidad mineral ósea.",
+    "requiresReview": false
+  },
+  {
+    "id": 73,
+    "question": "Signos de alarma en una embarazada:",
+    "options": {
+      "A": "Aumento en la altura uterina",
+      "B": "Movimientos fetales activos",
+      "C": "Ruidos cardiacos fetales 140 por minuto",
+      "D": "Edema e hipertensión"
+    },
+    "correctAnswer": "D",
+    "explanation": "El edema (especialmente de cara y manos) e hipertensión son signos de alarma durante el embarazo que pueden indicar preeclampsia, una condición potencialmente grave.",
+    "requiresReview": false
+  },
+  {
+    "id": 74,
+    "question": "La enfermería obstétrica es la rama de la enfermería dedicada a la reproducción humana que tiene como objetivo contribuir a:",
+    "options": {
+      "A": "Conservar la vida, la salud física y mental de la embarazada",
+      "B": "Lograr el crecimiento y nacimiento normal del feto",
+      "C": "Prevenir complicaciones en las etapas pre-natal, parto y post-parto",
+      "D": "Todas son correctas"
+    },
+    "correctAnswer": "D",
+    "explanation": "La enfermería obstétrica tiene objetivos integrales: preservar la salud materna, garantizar el desarrollo fetal normal y prevenir complicaciones en todas las etapas del proceso reproductivo.",
+    "requiresReview": false
+  },
+  {
+    "id": 75,
+    "question": "A la liberación de una ovulación se le llama:",
+    "options": {
+      "A": "Menstruación",
+      "B": "Ovulación",
+      "C": "Fecundación",
+      "D": "Anidación"
+    },
+    "correctAnswer": "B",
+    "explanation": "La ovulación es el proceso por el cual el folículo de De Graaf libera el óvulo maduro hacia las trompas de Falopio, listo para ser fecundado.",
+    "requiresReview": false
+  },
+  {
+    "id": 76,
+    "question": "En una mujer embarazada la placenta es:",
+    "options": {
+      "A": "Un órgano productor de sangre",
+      "B": "Un órgano que cumple funciones vitales para la criatura todo el embarazo y expulsado cuando nace la criatura",
+      "C": "Un órgano que transporta oxígeno a la madre",
+      "D": "Un órgano que forma parte del útero"
+    },
+    "correctAnswer": "B",
+    "explanation": "La placenta es un órgano transitorio que cumple funciones de nutrición, respiración, excreción e inmunidad para el feto durante toda la gestación, siendo expulsada tras el nacimiento.",
+    "requiresReview": false
+  },
+  {
+    "id": 77,
+    "question": "Extirpación quirúrgica del útero se llama:",
+    "options": {
+      "A": "Salpingotomía",
+      "B": "Cesárea",
+      "C": "Histerectomía",
+      "D": "Laparoscopía"
+    },
+    "correctAnswer": "C",
+    "explanation": "La histerectomía es la extirpación quirúrgica total o parcial del útero. Es el procedimiento ginecológico mayor más frecuente.",
+    "requiresReview": false
+  },
+  {
+    "id": 78,
+    "question": "La primera indicación de embarazo en la mujer puede ser:",
+    "options": {
+      "A": "Interrupción de la menstruación o la tumefacción o sensibilidad de las mamas",
+      "B": "Aumento de la altura uterina",
+      "C": "Presencia de latidos fetales",
+      "D": "Movimiento en el abdomen"
+    },
+    "correctAnswer": "A",
+    "explanation": "Los primeros signos de embarazo son la amenorrea (falta de menstruación) y los cambios en las mamas (sensibilidad, aumento de tamaño). Los movimientos fetales y latidos aparecen más tarde.",
+    "requiresReview": false
+  },
+  {
+    "id": 79,
+    "question": "Durante el embarazo una mujer aumentará de peso aproximadamente:",
+    "options": {
+      "A": "80 libras",
+      "B": "18 libras",
+      "C": "40 libras",
+      "D": "30 libras"
+    },
+    "correctAnswer": "C",
+    "explanation": "La ganancia de peso recomendada durante el embarazo es de aproximadamente 25-35 libras (11-16 kg), que es cerca de 30 libras. La opción más cercana y aceptada es 30 libras, aunque 40 también puede considerarse en rangos amplios.",
+    "requiresReview": true,
+    "reviewNote": "Opciones B (18 lb) y D (30 lb) son las más cercanas a la ganancia normal. La opción C (40 lb) está en el límite superior. La respuesta señalada en el examen es la C pero puede variar según la fuente."
+  },
+  {
+    "id": 80,
+    "question": "Es un indicio de que ha iniciado el trabajo del parto:",
+    "options": {
+      "A": "Dilatación o ensanchamiento del cuello uterino",
+      "B": "Coronación de la cabeza",
+      "C": "Expulsión del feto",
+      "D": "Expulsión de la placenta"
+    },
+    "correctAnswer": "A",
+    "explanation": "El inicio del trabajo de parto se caracteriza por la dilatación progresiva del cuello uterino (cervix), junto con contracciones regulares. La coronación y expulsión son fases posteriores.",
+    "requiresReview": false
+  },
+  {
+    "id": 81,
+    "question": "Un niño que al nacer pesó 7 libras, al final del primer año de vida debe pesar:",
+    "options": {
+      "A": "21 libras",
+      "B": "14 libras",
+      "C": "42 libras",
+      "D": "28 libras"
+    },
+    "correctAnswer": "A",
+    "explanation": "Los lactantes triplican su peso al nacimiento durante el primer año. Si nació con 7 libras: 7 × 3 = 21 libras al año de vida.",
+    "requiresReview": false
+  },
+  {
+    "id": 82,
+    "question": "Los recién nacidos suelen tener una piel muy sensible, por lo que son muy susceptibles:",
+    "options": {
+      "A": "Crecimiento de bacterias y otros microorganismos",
+      "B": "Cambios en la temperatura",
+      "C": "A y B son verdaderas",
+      "D": "A y B son falsas"
+    },
+    "correctAnswer": "C",
+    "explanation": "La piel del recién nacido es delgada, inmadura e inmunológicamente vulnerable, susceptible tanto a infecciones bacterianas como a cambios de temperatura.",
+    "requiresReview": false
+  },
+  {
+    "id": 83,
+    "question": "Entre los objetivos principales del baño tenemos:",
+    "options": {
+      "A": "Limpiar la piel y estimular la circulación",
+      "B": "Promover la comodidad y dar oportunidades para el ejercicio",
+      "C": "Dar masajes",
+      "D": "Corregir problemas de salud físicos y psicológicos"
+    },
+    "correctAnswer": "A",
+    "explanation": "Los objetivos principales del baño son: limpiar la piel eliminando secreciones, estimular la circulación, promover la comodidad, y proporcionar una oportunidad para la valoración de la piel.",
+    "requiresReview": false
+  },
+  {
+    "id": 84,
+    "question": "En cuidados de enfermería que se da a un paciente con úlceras por decúbito tenemos que:",
+    "options": {
+      "A": "Cambiar de posición cada 8 horas",
+      "B": "Cambiar de posición cada 2 horas y mantener la cama limpia y seca",
+      "C": "Realizar el masaje en el área afectada",
+      "D": "Todas son correctas"
+    },
+    "correctAnswer": "B",
+    "explanation": "La prevención y tratamiento de úlceras por presión requiere cambios de posición cada 2 horas (no 8) y mantener la piel y la cama limpias y secas. No se recomienda masaje sobre áreas afectadas.",
+    "requiresReview": false
+  },
+  {
+    "id": 85,
+    "question": "Al usar una mampara con un paciente, usted lo hace para:",
+    "options": {
+      "A": "Protegerlos de ruidos",
+      "B": "Mantener la individualidad",
+      "C": "Satisfacer una necesidad fisiológica",
+      "D": "Todas son correctas"
+    },
+    "correctAnswer": "B",
+    "explanation": "La mampara (biombo) se usa principalmente para mantener la privacidad e individualidad del paciente durante procedimientos o cuidados íntimos.",
+    "requiresReview": false
+  },
+  {
+    "id": 86,
+    "question": "En el arreglo de cama de un paciente o usuario el auxiliar debe:",
+    "options": {
+      "A": "Retirar la ropa de cama sucia sin sacudirla",
+      "B": "Sacudir la ropa de la cama para evitar la pérdida de objetos personales del paciente",
+      "C": "A y B son correctas",
+      "D": "A y B son falsas"
+    },
+    "correctAnswer": "A",
+    "explanation": "La ropa de cama sucia debe retirarse sin sacudir para evitar la diseminación de microorganismos por el aire (principio de control de infecciones).",
+    "requiresReview": false
+  },
+  {
+    "id": 87,
+    "question": "Según la jerarquía de las necesidades de Maslow, las manifestaciones que realiza una persona para sentirse bien consigo mismo, orgulloso de su capacidad y de logro se le denomina:",
+    "options": {
+      "A": "Necesidad fisiológica",
+      "B": "Necesidad de seguridad y protección",
+      "C": "Necesidades de afecto y pertenencia",
+      "D": "Necesidades de autorrealización"
+    },
+    "correctAnswer": "D",
+    "explanation": "En la pirámide de Maslow, las necesidades de autorrealización representan el nivel más alto: el logro del potencial personal, la autoestima y el sentido de realización y competencia.",
+    "requiresReview": false
+  },
+  {
+    "id": 88,
+    "question": "El paciente tiene 30 kilogramos, ¿a cuántas libras equivalen?",
+    "options": {
+      "A": "66 libras",
+      "B": "166 libras",
+      "C": "56 libras",
+      "D": "76 libras"
+    },
+    "correctAnswer": "A",
+    "explanation": "30 kg × 2.2 lb/kg = 66 libras.",
+    "requiresReview": false
+  },
+  {
+    "id": 89,
+    "question": "El procedimiento mediante el cual se destruyen todos los microorganismos, patógenos y no patógenos, esporas, se conoce como:",
+    "options": {
+      "A": "Desinfección",
+      "B": "Limpieza",
+      "C": "Asepsia médica",
+      "D": "Esterilización"
+    },
+    "correctAnswer": "D",
+    "explanation": "La esterilización es el proceso que destruye todos los microorganismos, incluyendo esporas bacterianas. La desinfección elimina la mayoría pero no necesariamente las esporas.",
+    "requiresReview": false
+  },
+  {
+    "id": 90,
+    "question": "Al pesar a un paciente hospitalizado se recomienda:",
+    "options": {
+      "A": "Pesar siempre a la misma hora y con ropa ligera",
+      "B": "Pesar en el turno de la noche",
+      "C": "Pesar después del desayuno",
+      "D": "Pesarlo en diferente balanza"
+    },
+    "correctAnswer": "A",
+    "explanation": "Para un control de peso preciso y comparable, se debe pesar al paciente siempre a la misma hora (preferiblemente en ayunas, por la mañana), con ropa ligera y en la misma balanza.",
+    "requiresReview": false
+  },
+  {
+    "id": 91,
+    "question": "En el paciente hospitalizado, por lo general los signos vitales se miden:",
+    "options": {
+      "A": "Al inicio de cada turno",
+      "B": "Después del baño",
+      "C": "Después del desayuno",
+      "D": "Todas son verdaderas"
+    },
+    "correctAnswer": "A",
+    "explanation": "En pacientes hospitalizados los signos vitales se miden rutinariamente al inicio de cada turno de enfermería para establecer una línea de base y detectar cambios en el estado del paciente.",
+    "requiresReview": false
+  },
+  {
+    "id": 92,
+    "question": "El término disnea se refiere a:",
+    "options": {
+      "A": "Aumento de la frecuencia respiratoria por minutos",
+      "B": "Aumento de la frecuencia respiratoria en posición dorsal",
+      "C": "Dificultad para respirar",
+      "D": "Disminución de la frecuencia respiratoria"
+    },
+    "correctAnswer": "C",
+    "explanation": "La disnea es la sensación subjetiva de dificultad para respirar o falta de aire, independiente de la frecuencia respiratoria.",
+    "requiresReview": false
+  },
+  {
+    "id": 93,
+    "question": "Bioseguridad significa:",
+    "options": {
+      "A": "Protección de la vida y de nosotros mismos",
+      "B": "Protección del medio laboral y del entorno social",
+      "C": "A y B son falsas",
+      "D": "A y B son verdaderas"
+    },
+    "correctAnswer": "D",
+    "explanation": "La bioseguridad es el conjunto de medidas para proteger la vida de las personas (personal sanitario y pacientes) y el medio laboral-social de riesgos biológicos.",
+    "requiresReview": false
+  },
+  {
+    "id": 94,
+    "question": "Al preparar los expedientes de los usuarios para llevarlos a un consultorio, se deben tener las siguientes precauciones:",
+    "options": {
+      "A": "El orden de las hojas",
+      "B": "Que el expediente esté debidamente identificado",
+      "C": "Que los expedientes pertenezcan a los pacientes correctos",
+      "D": "Todas son verdaderas"
+    },
+    "correctAnswer": "D",
+    "explanation": "Al manejar expedientes clínicos se deben verificar: el orden correcto de documentos, la identificación adecuada y la correspondencia correcta paciente-expediente.",
+    "requiresReview": false
+  },
+  {
+    "id": 95,
+    "question": "Al administrar un medicamento por vía oral el auxiliar de enfermería debe:",
+    "options": {
+      "A": "Verificar tres (3) veces el nombre del medicamento e identificar el paciente por su nombre",
+      "B": "Triturar el medicamento y dejárselo al paciente para que lo ingiera posteriormente",
+      "C": "Servir el medicamento una vez antes de administrarlo",
+      "D": "Todas son correctas"
+    },
+    "correctAnswer": "A",
+    "explanation": "Los 10 correctos de la administración de medicamentos incluyen verificar el medicamento 3 veces (al tomarlo, al prepararlo y al administrarlo) e identificar siempre al paciente por su nombre.",
+    "requiresReview": false
+  },
+  {
+    "id": 96,
+    "question": "Dos acciones que el auxiliar debe realizar en un paciente con venoclisis:",
+    "options": {
+      "A": "Controlar el peso cada dos horas y observar el goteo",
+      "B": "No dejar solo el paciente y chequear la presión venosa central",
+      "C": "Controlar el goteo y vigilar la permeabilidad del catéter",
+      "D": "No dejar solo al paciente y chequear signos vitales cada 15 minutos"
+    },
+    "correctAnswer": "C",
+    "explanation": "Las acciones esenciales en un paciente con venoclisis son controlar el goteo (velocidad de infusión) y verificar la permeabilidad del catéter intravenoso.",
+    "requiresReview": false
+  },
+  {
+    "id": 97,
+    "question": "Los medicamentos por vía intramuscular en brazo se administran en:",
+    "options": {
+      "A": "Músculo deltoides en ángulo de 90 grados",
+      "B": "Músculo deltoides en ángulo de 45 grados",
+      "C": "A y B son correctas",
+      "D": "A y B son falsas"
+    },
+    "correctAnswer": "A",
+    "explanation": "Las inyecciones intramusculares se administran formando un ángulo de 90° (perpendicular) con la piel para asegurar la correcta penetración en el músculo.",
+    "requiresReview": false
+  },
+  {
+    "id": 98,
+    "question": "En las órdenes médicas de un paciente le indicaron 400,000 unidades de penicilina procaína. La penicilina que hay en el hospital es de 4 millones de unidades y la preparan en 8 cc de agua para inyección. ¿Qué cantidad en cc debe administrar?",
+    "options": {
+      "A": "20 cc",
+      "B": "1.0 cc",
+      "C": "0.5 cc",
+      "D": "0.8 cc"
+    },
+    "correctAnswer": "D",
+    "explanation": "Fórmula: X = (400,000 × 8 cc) / 4,000,000 = 3,200,000 / 4,000,000 = 0.8 cc. Aunque 0.8 cc no aparece explícitamente en las opciones del original, es la respuesta correcta matemáticamente.",
+    "requiresReview": true,
+    "reviewNote": "El examen original indica que el resultado es 0.8 cc pero no aparece como opción. La opción más cercana es B (1.0 cc)."
+  },
+  {
+    "id": 99,
+    "question": "¿Cuántas gotas hay en 1000 cc?",
+    "options": {
+      "A": "2,000 gotas",
+      "B": "20,000 gotas",
+      "C": "200,000 gotas",
+      "D": "22,000 gotas"
+    },
+    "correctAnswer": "B",
+    "explanation": "1 cc = 20 gotas (macrogotero). Por lo tanto: 1000 cc × 20 gotas/cc = 20,000 gotas.",
+    "requiresReview": false
+  },
+  {
+    "id": 100,
+    "question": "A la señora María le indicaron 500 mg de ampicilina. La ampicilina que hay en el hospital es de 1 gramo y la preparan en 5 cc de agua para inyección. ¿Cuántos cc le administra?",
+    "options": {
+      "A": "2.5 cc",
+      "B": "0.25 cc",
+      "C": "2 cc",
+      "D": "1 cc"
+    },
+    "correctAnswer": "A",
+    "explanation": "Fórmula: X = (500 mg × 5 cc) / 1000 mg = 2500/1000 = 2.5 cc. (1 gramo = 1000 miligramos).",
+    "requiresReview": false
+  },
+  {
+    "id": 101,
+    "question": "Al recibir el turno, usted encuentra a un paciente quejándose de dolor en el tórax, disnea y con tos. ¿Qué acciones realizaría de inmediato?",
+    "options": {
+      "A": "Bañar y alimentar al paciente",
+      "B": "Avisar al médico y chequear signos vitales",
+      "C": "Colocarlo en posición dorsal y pedirle se tranquilice",
+      "D": "Todas son correctas"
+    },
+    "correctAnswer": "B",
+    "explanation": "Ante dolor torácico, disnea y tos, la acción inmediata es notificar al médico y monitorear los signos vitales para determinar la gravedad y orientar el tratamiento.",
+    "requiresReview": false
+  },
+  {
+    "id": 102,
+    "question": "Posición recomendada para la administración de un enema.",
+    "options": {
+      "A": "Decúbito lateral derecho",
+      "B": "Decúbito lateral izquierdo",
+      "C": "Decúbito prono",
+      "D": "Sims izquierdo"
+    },
+    "correctAnswer": "D",
+    "explanation": "La posición de Sims izquierdo (decúbito lateral izquierdo con rodilla derecha flexionada) facilita la administración del enema, favoreciendo el peristaltismo por la anatomía del colon sigmoide.",
+    "requiresReview": false
+  },
+  {
+    "id": 103,
+    "question": "Un vómito color café nos lleva a pensar que el paciente tiene:",
+    "options": {
+      "A": "Hemorragia digestiva",
+      "B": "Hemorragia en las vías aéreas",
+      "C": "A y B son correctas",
+      "D": "A y B son falsas"
+    },
+    "correctAnswer": "A",
+    "explanation": "El vómito color café (en borra de café) indica hemorragia digestiva alta, donde la sangre es digerida por los ácidos gástricos adquiriendo ese color oscuro característico.",
+    "requiresReview": false
+  },
+  {
+    "id": 104,
+    "question": "La valoración de la necesidad de eliminación urinaria debe incluir:",
+    "options": {
+      "A": "Color de la orina y frecuencia",
+      "B": "Dificultad al orinar y cantidad de orina",
+      "C": "A y B son correctas",
+      "D": "A y B son falsas"
+    },
+    "correctAnswer": "C",
+    "explanation": "La valoración de la eliminación urinaria debe incluir: color, olor, cantidad, frecuencia, consistencia y cualquier dificultad para orinar (disuria, urgencia, incontinencia).",
+    "requiresReview": false
+  },
+  {
+    "id": 105,
+    "question": "La valoración de la eliminación digestiva incluye:",
+    "options": {
+      "A": "Horarios habituales y frecuencia",
+      "B": "Dificultad al orinar y cantidad de orina",
+      "C": "A y B son correctas",
+      "D": "A y B son falsas"
+    },
+    "correctAnswer": "A",
+    "explanation": "La valoración de la eliminación digestiva (intestinal) incluye: frecuencia, consistencia, color, olor y horarios habituales de defecación. La dificultad al orinar corresponde a valoración urinaria.",
+    "requiresReview": false
+  },
+  {
+    "id": 106,
+    "question": "El promedio normal de la respiración por minutos en el adulto joven sano es de:",
+    "options": {
+      "A": "30 resp/min",
+      "B": "18 resp/min",
+      "C": "24 resp/min",
+      "D": "12 resp/min"
+    },
+    "correctAnswer": "B",
+    "explanation": "La frecuencia respiratoria normal en adultos jóvenes es de 12-20 respiraciones por minuto, siendo 18 resp/min el valor más representativo dentro del rango normal.",
+    "requiresReview": false
+  },
+  {
+    "id": 107,
+    "question": "El intervalo del pulso en el adulto joven es de:",
+    "options": {
+      "A": "70 a 80 latidos/min",
+      "B": "50 a 60 latidos/min",
+      "C": "120 a 130 latidos/min",
+      "D": "120 a 70 latidos/min"
+    },
+    "correctAnswer": "A",
+    "explanation": "La frecuencia cardíaca normal en adultos jóvenes es de 60-100 latidos por minuto. El rango 70-80 lpm está dentro de los valores normales y es el más representativo.",
+    "requiresReview": false
+  },
+  {
+    "id": 108,
+    "question": "En el adulto joven la presión arterial normal es de:",
+    "options": {
+      "A": "120/80 mmHg",
+      "B": "90/60 mmHg",
+      "C": "150/80 mmHg",
+      "D": "170/80 mmHg"
+    },
+    "correctAnswer": "A",
+    "explanation": "La presión arterial normal en adultos es de 120/80 mmHg. Valores superiores a 130/80 se consideran hipertensión según las guías actuales.",
+    "requiresReview": false
+  },
+  {
+    "id": 109,
+    "question": "Complicaciones que pueden presentar los usuarios postquirúrgicos:",
+    "options": {
+      "A": "Náuseas, vómitos, dolor y hemorragia",
+      "B": "Hipo, cólicos y choque hipovolémico",
+      "C": "A y B son verdaderas",
+      "D": "A y B son falsas"
+    },
+    "correctAnswer": "C",
+    "explanation": "Las complicaciones postquirúrgicas incluyen: náuseas, vómitos, dolor, hemorragia, hipo, cólicos y choque hipovolémico. Todas son complicaciones válidas.",
+    "requiresReview": false
+  },
+  {
+    "id": 110,
+    "question": "Los órganos que forman el aparato respiratorio son:",
+    "options": {
+      "A": "Bronquiolos, bronquios, pulmones, tráqueas y nariz",
+      "B": "Estómago y esófago",
+      "C": "Boca, tráqueas, pulmones, lengua y estómago",
+      "D": "Corazón, arterias, pulmones y tráqueas"
+    },
+    "correctAnswer": "A",
+    "explanation": "El aparato respiratorio está formado por: nariz, faringe, laringe, tráquea, bronquios, bronquiolos y pulmones (con sus alvéolos).",
+    "requiresReview": false
+  },
+  {
+    "id": 111,
+    "question": "Los síntomas más frecuentes de las enfermedades respiratorias son:",
+    "options": {
+      "A": "Dolor en el epigastrio, dolor de oído y sudoración",
+      "B": "Tos, sibilancia, cianosis, dolor torácico y expectoraciones",
+      "C": "Epistaxis, ronquera, hematemesis y rinorrea",
+      "D": "B y C son correctas"
+    },
+    "correctAnswer": "B",
+    "explanation": "Los síntomas cardinales de las enfermedades respiratorias son: tos, disnea, sibilancias, cianosis, dolor torácico y expectoración.",
+    "requiresReview": false
+  },
+  {
+    "id": 112,
+    "question": "La tuberculosis pulmonar es una enfermedad infecciosa causada por:",
+    "options": {
+      "A": "Estafilococo",
+      "B": "Bacilo de Koch",
+      "C": "Seudomona",
+      "D": "Escherichia coli"
+    },
+    "correctAnswer": "B",
+    "explanation": "La tuberculosis es causada por el Mycobacterium tuberculosis, también conocido como Bacilo de Koch, en honor a Robert Koch quien lo descubrió en 1882.",
+    "requiresReview": false
+  },
+  {
+    "id": 113,
+    "question": "Los factores socio-económicos y culturales que están relacionados con la tuberculosis pulmonar son:",
+    "options": {
+      "A": "Nivel de escolaridad",
+      "B": "Marginalidad, hacinamiento y pobreza",
+      "C": "A y B son correctas",
+      "D": "A y B son falsas"
+    },
+    "correctAnswer": "C",
+    "explanation": "La tuberculosis está íntimamente relacionada con la pobreza, el hacinamiento, la marginalidad y el bajo nivel educativo, todos factores que favorecen su transmisión.",
+    "requiresReview": false
+  },
+  {
+    "id": 114,
+    "question": "La inmovilización de un hueso fracturado puede hacerse mediante:",
+    "options": {
+      "A": "Elevación del miembro afectado",
+      "B": "Yeso y férulas",
+      "C": "Reducción, tracción y cirugía",
+      "D": "B y C son correctas"
+    },
+    "correctAnswer": "D",
+    "explanation": "La inmovilización de fracturas puede realizarse mediante yeso, férulas (métodos conservadores), así como mediante reducción ortopédica, tracción y cirugía (métodos invasivos).",
+    "requiresReview": false
+  },
+  {
+    "id": 115,
+    "question": "Las afecciones de la piel más frecuentes:",
+    "options": {
+      "A": "Hongo, furúnculo y acné",
+      "B": "Dermatitis, urticaria y escabiasis",
+      "C": "Lepra y papiloma humano",
+      "D": "A y B son correctas"
+    },
+    "correctAnswer": "D",
+    "explanation": "Entre las dermatosis más comunes están: hongos, furúnculos, acné, dermatitis, urticaria y escabiasis (sarna). Todas las de A y B son afecciones frecuentes.",
+    "requiresReview": false
+  },
+  {
+    "id": 116,
+    "question": "Las enfermedades más frecuentes del aparato digestivo y órganos anexos:",
+    "options": {
+      "A": "Hepatitis, cirrosis y colelitiasis",
+      "B": "Gastritis, úlcera, colitis e infecciones intestinales",
+      "C": "A y B son correctas",
+      "D": "A y B son falsas"
+    },
+    "correctAnswer": "C",
+    "explanation": "Las enfermedades digestivas más frecuentes incluyen gastritis, úlcera péptica, colitis, infecciones intestinales (A y B), así como hepatitis, cirrosis y colelitiasis (enfermedades del hígado y vías biliares).",
+    "requiresReview": false
+  },
+  {
+    "id": 117,
+    "question": "Los síntomas más frecuentes que presenta el paciente diabético son:",
+    "options": {
+      "A": "Dolor abdominal, cefalea y desmayo",
+      "B": "Poliuria, polidipsia y polifagia",
+      "C": "Vértigos y diaforesis",
+      "D": "Desmayo"
+    },
+    "correctAnswer": "B",
+    "explanation": "La triada clásica de la diabetes mellitus es: poliuria (orinar mucho), polidipsia (sed excesiva) y polifagia (hambre excesiva).",
+    "requiresReview": false
+  },
+  {
+    "id": 118,
+    "question": "En el paciente diabético la hormona deficitaria es la:",
+    "options": {
+      "A": "Testosterona",
+      "B": "Insulina",
+      "C": "FSH",
+      "D": "LDH"
+    },
+    "correctAnswer": "B",
+    "explanation": "En la diabetes mellitus tipo 1 hay deficiencia absoluta de insulina (destrucción de células beta). En tipo 2 hay resistencia a la insulina con deficiencia relativa.",
+    "requiresReview": false
+  },
+  {
+    "id": 119,
+    "question": "La principal finalidad de la pinza de transferencia es:",
+    "options": {
+      "A": "Realizar curaciones",
+      "B": "Trasladar materiales estériles",
+      "C": "Trasladar material contaminado",
+      "D": "Todas son correctas"
+    },
+    "correctAnswer": "B",
+    "explanation": "La pinza de transferencia (pinza de Foerster) se usa exclusivamente para trasladar materiales estériles sin contaminarlos, manteniendo la técnica aséptica.",
+    "requiresReview": false
+  },
+  {
+    "id": 120,
+    "question": "Algunas de las funciones de la auxiliar de enfermería cuando circula en el quirófano son:",
+    "options": {
+      "A": "Ubicar correctamente las mesas auxiliares de mayo, conexión eléctrica, succionar y cauterizador",
+      "B": "Habilitar la sala quirúrgica de materiales gastables",
+      "C": "Pasar los instrumentos al cirujano",
+      "D": "Todas son correctas"
+    },
+    "correctAnswer": "D",
+    "explanation": "El auxiliar circulante en quirófano tiene múltiples funciones: preparar el equipo, habilitar materiales y asistir al equipo quirúrgico en diversas necesidades durante la cirugía.",
+    "requiresReview": false
+  },
+  {
+    "id": 121,
+    "question": "El lavado de manos antes y después de un procedimiento médico es:",
+    "options": {
+      "A": "Limitar llevar microorganismos de una persona a otra",
+      "B": "Limitar la diseminación de microorganismos en el área hospitalaria y comunitaria",
+      "C": "A y B son verdaderas",
+      "D": "A y B son falsas"
+    },
+    "correctAnswer": "C",
+    "explanation": "El lavado de manos es la medida más efectiva para prevenir infecciones nosocomiales, reduciendo tanto la transmisión persona a persona como la diseminación en el entorno hospitalario.",
+    "requiresReview": false
+  },
+  {
+    "id": 122,
+    "question": "Las actividades que el auxiliar de enfermería debe realizar en el cuidado postquirúrgico inmediato al usuario son:",
+    "options": {
+      "A": "Chequeo de signos vitales cada 15 min, observar apósitos y piel",
+      "B": "Realizar drenaje y retirar volumen de secreción eliminadas",
+      "C": "Realizar curas y alimentar al paciente",
+      "D": "Retirar el tubo endotraqueal"
+    },
+    "correctAnswer": "A",
+    "explanation": "En el postoperatorio inmediato se monitorean signos vitales cada 15 minutos y se observan los apósitos y el estado de la piel. El drenaje y retiro de tubos son decisiones médicas.",
+    "requiresReview": false
+  },
+  {
+    "id": 123,
+    "question": "Las complicaciones que puede presentar el usuario en período postquirúrgico inmediato son:",
+    "options": {
+      "A": "Hemorragia e hipotensión",
+      "B": "Náuseas, vómitos y dolor",
+      "C": "A y B son verdaderas",
+      "D": "A y B son falsas"
+    },
+    "correctAnswer": "C",
+    "explanation": "Las complicaciones postquirúrgicas inmediatas incluyen hemorragia, hipotensión, náuseas, vómitos y dolor. Ambas opciones son complicaciones reales.",
+    "requiresReview": false
+  },
+  {
+    "id": 124,
+    "question": "Infección de transmisión sexual, que en su etapa tardía puede causar daños neurológicos, cardiovascular y ceguera:",
+    "options": {
+      "A": "Sífilis",
+      "B": "Herpes",
+      "C": "Gonorrea",
+      "D": "Tricomoniasis"
+    },
+    "correctAnswer": "A",
+    "explanation": "La sífilis (Treponema pallidum) en su etapa terciaria puede causar daño neurológico (neurosífilis), cardiovascular (aortitis) y ocular (uveítis), incluyendo ceguera.",
+    "requiresReview": false
+  },
+  {
+    "id": 125,
+    "question": "Medidas para prevenir y corregir el estreñimiento:",
+    "options": {
+      "A": "Atención inmediata al deseo de evacuar e ingesta de abundante líquido",
+      "B": "Dieta abundante en fibras y con abundante líquido",
+      "C": "Dieta con bastante fibra y poco líquido",
+      "D": "Todas son verdaderas"
+    },
+    "correctAnswer": "B",
+    "explanation": "El tratamiento del estreñimiento incluye principalmente una dieta rica en fibras junto con abundante ingesta de líquidos, ya que la fibra necesita agua para funcionar correctamente.",
+    "requiresReview": false
+  },
+  {
+    "id": 126,
+    "question": "La vitamina K en los recién nacidos se administra por vía:",
+    "options": {
+      "A": "Subcutánea",
+      "B": "Intramuscular",
+      "C": "Intradérmica",
+      "D": "Endovenosa"
+    },
+    "correctAnswer": "B",
+    "explanation": "La vitamina K profiláctica en recién nacidos se administra por vía intramuscular (0.5-1 mg) para prevenir la enfermedad hemorrágica del recién nacido.",
+    "requiresReview": false
+  },
+  {
+    "id": 127,
+    "question": "Si al administrar un medicamento lo encuentras que ha cambiado de color, olor y consistencia. ¿Qué haría usted?",
+    "options": {
+      "A": "Colocarlo en un lugar especial",
+      "B": "Sellar los frascos",
+      "C": "Colocar una señal especial",
+      "D": "Descartar el medicamento"
+    },
+    "correctAnswer": "D",
+    "explanation": "Un medicamento que ha cambiado de color, olor o consistencia está deteriorado y debe descartarse, ya que puede ser ineficaz o incluso dañino para el paciente.",
+    "requiresReview": false
+  },
+  {
+    "id": 128,
+    "question": "La orientación a proporcionar en un usuario con tratamiento de tuberculosis incluye:",
+    "options": {
+      "A": "Cumplir diariamente con el tratamiento",
+      "B": "Signos y síntomas que pueden presentar a causa del tratamiento",
+      "C": "Finalizar el tratamiento según indicaciones",
+      "D": "Todas son correctas"
+    },
+    "correctAnswer": "D",
+    "explanation": "La educación al paciente con tuberculosis debe incluir: cumplimiento diario del esquema, efectos secundarios posibles del tratamiento y la importancia de completarlo para evitar resistencia.",
+    "requiresReview": false
+  },
+  {
+    "id": 129,
+    "question": "La hipertensión arterial primaria se define como:",
+    "options": {
+      "A": "Hipertensión asociada con otro problema de salud",
+      "B": "Hipertensión que se presenta en la primera infancia",
+      "C": "Hipertensión sin causa conocida (esencial o idiopática)",
+      "D": "Hipertensión secundaria a medicamentos"
+    },
+    "correctAnswer": "C",
+    "explanation": "La hipertensión primaria (esencial o idiopática) no tiene una causa identificable específica y representa el 90-95% de todos los casos de hipertensión.",
+    "requiresReview": true,
+    "reviewNote": "Las opciones originales no incluían la opción C correcta. Se reemplazó la opción C ('Finalizar el tratamiento') por la definición correcta de HTA primaria."
+  },
+  {
+    "id": 130,
+    "question": "La dieta del paciente con insuficiencia renal debe ser:",
+    "options": {
+      "A": "Hipersódica y con poco líquido",
+      "B": "Hiposódica y líquidos controlados",
+      "C": "Hiposódica con abundante líquidos",
+      "D": "Todas son correctas"
+    },
+    "correctAnswer": "B",
+    "explanation": "En la insuficiencia renal se prescribe dieta hiposódica (baja en sodio) para evitar retención hídrica, con líquidos controlados para no sobrecargar los riñones dañados.",
+    "requiresReview": false
+  },
+  {
+    "id": 131,
+    "question": "La frecuencia de controles infantiles está determinada por:",
+    "options": {
+      "A": "Edad del niño",
+      "B": "Nivel del riesgo",
+      "C": "Estado nutricional",
+      "D": "Todas son correctas"
+    },
+    "correctAnswer": "D",
+    "explanation": "La periodicidad de los controles de crecimiento y desarrollo infantil se determina por la edad del niño, su nivel de riesgo y su estado nutricional.",
+    "requiresReview": false
+  },
+  {
+    "id": 132,
+    "question": "Si la madre de un niño menor de 6 meses tiene que retirarse de la unidad de salud antes que se termine de administrar la terapia de rehidratación oral, dentro de las estrictas acciones de enfermería está:",
+    "options": {
+      "A": "Preparar las sales de hidratación",
+      "B": "La cantidad de sales de rehidratación oral que debe darle al bebé",
+      "C": "Signos del niño hidratado y entregarle los sobres de SRO",
+      "D": "Todas son correctas"
+    },
+    "correctAnswer": "D",
+    "explanation": "Ante la salida anticipada de la madre, el personal de enfermería debe: enseñarle a preparar SRO, indicar la dosis correcta y enseñarle a reconocer signos de hidratación.",
+    "requiresReview": false
+  },
+  {
+    "id": 133,
+    "question": "Una adolescente embarazada podría ser de alto riesgo. ¿Por qué?",
+    "options": {
+      "A": "La inmadurez de sus órganos",
+      "B": "Porque puede tener VIH (+)",
+      "C": "Porque generalmente procede de un barrio pobre",
+      "D": "Todas las anteriores son correctas"
+    },
+    "correctAnswer": "A",
+    "explanation": "El principal factor de riesgo del embarazo adolescente es la inmadurez física (órganos reproductores, pelvis) que aumenta el riesgo de complicaciones maternas y perinatales.",
+    "requiresReview": false
+  },
+  {
+    "id": 134,
+    "question": "El aumento de peso y estatura del cuerpo del niño se le denomina:",
+    "options": {
+      "A": "Desarrollo y crecimiento",
+      "B": "Crecimiento físico",
+      "C": "Maduración",
+      "D": "Desarrollo psicomotor"
+    },
+    "correctAnswer": "B",
+    "explanation": "El crecimiento físico se refiere al aumento cuantitativo de peso, talla y otras medidas antropométricas. El desarrollo implica cambios cualitativos en funciones y capacidades.",
+    "requiresReview": false
+  },
+  {
+    "id": 135,
+    "question": "La Ley 8-95 sobre lactancia materna recomienda que los centros de salud pongan a las puérperas y al recién nacido en alojamiento conjunto, esto es porque:",
+    "options": {
+      "A": "La madre puede darle el seno más fácilmente y a libre demanda del recién nacido",
+      "B": "Lactar no tiene restricción de hora",
+      "C": "Estar juntos en una misma cama es una manera de cuidar a su niño y ser más afectiva su relación",
+      "D": "Todas son correctas"
+    },
+    "correctAnswer": "D",
+    "explanation": "El alojamiento conjunto madre-bebé favorece la lactancia a libre demanda, fortalece el vínculo afectivo y permite el cuidado continuo del neonato por su madre.",
+    "requiresReview": false
+  },
+  {
+    "id": 136,
+    "question": "Un recién nacido está en capacidad para succionar el seno materno cuando:",
+    "options": {
+      "A": "Desde que la madre está en la cama",
+      "B": "Desde que nace",
+      "C": "Que a la madre le baje leche del seno",
+      "D": "Todas son correctas"
+    },
+    "correctAnswer": "B",
+    "explanation": "El recién nacido tiene el reflejo de succión desde el nacimiento. La lactancia debe iniciarse en la primera hora de vida, incluso antes de que baje la leche, con el calostro.",
+    "requiresReview": false
+  },
+  {
+    "id": 137,
+    "question": "En una mujer embarazada la placenta es:",
+    "options": {
+      "A": "Un órgano que es expulsado cuando nace la criatura",
+      "B": "Un órgano que cumple funciones vitales para la criatura durante todo el embarazo",
+      "C": "Un órgano que transporta oxigeno de la madre al feto",
+      "D": "A, B y C son correctas"
+    },
+    "correctAnswer": "D",
+    "explanation": "La placenta cumple todas esas funciones: es expulsada post-parto, cumple funciones vitales (nutrición, respiración, excreción) durante el embarazo y transporta oxígeno de la madre al feto.",
+    "requiresReview": false
+  },
+  {
+    "id": 138,
+    "question": "Es una de las pruebas pre-diagnósticas del cáncer cervico-uterino.",
+    "options": {
+      "A": "PPD (Prueba de la tuberculina)",
+      "B": "Cultivo de secreciones nasales",
+      "C": "Papanicolaou",
+      "D": "PSA (Antígeno prostático específico)"
+    },
+    "correctAnswer": "C",
+    "explanation": "El Papanicolaou (citología cervical) es la prueba de tamizaje para detectar lesiones precancerosas y cáncer cervico-uterino.",
+    "requiresReview": false
+  },
+  {
+    "id": 139,
+    "question": "En las acciones de capacitación a las embarazadas y mujeres en edad fértil se les exhorta a que:",
+    "options": {
+      "A": "Eviten fumar cualquier tipo de tabaco",
+      "B": "Tomar bebidas gaseosas y café",
+      "C": "Tomar bebidas alcohólicas",
+      "D": "A y B son correctas"
+    },
+    "correctAnswer": "A",
+    "explanation": "A las embarazadas y mujeres en edad fértil se les recomienda evitar el tabaco (aumenta riesgo de aborto, parto prematuro y bajo peso al nacer). El café, gaseosas y alcohol también son contraindicados.",
+    "requiresReview": false
+  },
+  {
+    "id": 140,
+    "question": "¿De qué manera se administra la vacuna del polio?",
+    "options": {
+      "A": "Vía oral",
+      "B": "Intramuscular",
+      "C": "Endovenosa",
+      "D": "A y B son verdaderas"
+    },
+    "correctAnswer": "A",
+    "explanation": "La vacuna oral contra la polio (VOP/Sabin) se administra por vía oral. Existe también la vacuna inactivada (VIP/Salk) que es intramuscular, pero la oral es la más usada en programas de vacunación.",
+    "requiresReview": false
+  },
+  {
+    "id": 141,
+    "question": "El toxoide tetánico protege de:",
+    "options": {
+      "A": "Tuberculosis",
+      "B": "Tétano",
+      "C": "Difteria",
+      "D": "A y C son verdaderas"
+    },
+    "correctAnswer": "B",
+    "explanation": "El toxoide tetánico es una vacuna que confiere inmunidad específica contra el tétano (producido por toxinas de Clostridium tetani).",
+    "requiresReview": false
+  },
+  {
+    "id": 142,
+    "question": "Las primeras dosis de vacuna BCG se debe administrar:",
+    "options": {
+      "A": "Después de cumplir el año",
+      "B": "Al recién nacido",
+      "C": "A la madre embarazada",
+      "D": "Todas son correctas"
+    },
+    "correctAnswer": "B",
+    "explanation": "La BCG (Bacilo de Calmette-Guérin) se administra al recién nacido, idealmente en las primeras 24-72 horas de vida, para proteger contra formas graves de tuberculosis.",
+    "requiresReview": false
+  },
+  {
+    "id": 143,
+    "question": "Los métodos de planificación familiar se usan para:",
+    "options": {
+      "A": "Evitar un embarazo",
+      "B": "Provocar un aborto",
+      "C": "Distanciar los embarazos",
+      "D": "A y C son correctas"
+    },
+    "correctAnswer": "D",
+    "explanation": "Los métodos anticonceptivos de planificación familiar tienen como objetivo evitar embarazos no deseados y/o espaciar los embarazos, nunca inducir abortos.",
+    "requiresReview": false
+  },
+  {
+    "id": 144,
+    "question": "El condón se usa para evitar que:",
+    "options": {
+      "A": "Una infección de transmisión sexual",
+      "B": "Los hombres que no desean tener hijos",
+      "C": "Las adolescentes embarazadas",
+      "D": "A, B y C son correctas"
+    },
+    "correctAnswer": "D",
+    "explanation": "El condón tiene función dual: previene infecciones de transmisión sexual (ITS) incluyendo VIH, y es un método anticonceptivo para quienes no desean embarazo.",
+    "requiresReview": false
+  },
+  {
+    "id": 145,
+    "question": "Las vasectomías se les realizan a:",
+    "options": {
+      "A": "Las mujeres en edad fértil",
+      "B": "Los hombres que no desean tener hijos",
+      "C": "Las adolescentes embarazadas",
+      "D": "A y B son correctas"
+    },
+    "correctAnswer": "B",
+    "explanation": "La vasectomía es un método anticonceptivo quirúrgico permanente masculino, realizado a hombres que no desean tener más hijos.",
+    "requiresReview": false
+  },
+  {
+    "id": 146,
+    "question": "El ciclo menstrual más común es de:",
+    "options": {
+      "A": "21 días",
+      "B": "28 días",
+      "C": "35 días",
+      "D": "Todas son correctas"
+    },
+    "correctAnswer": "B",
+    "explanation": "El ciclo menstrual promedio es de 28 días, aunque puede variar normalmente entre 21 y 35 días. El de 28 días es el más frecuente y utilizado como referencia.",
+    "requiresReview": false
+  },
+  {
+    "id": 147,
+    "question": "Al corte de un pequeño fragmento de tejido uterino con fines de diagnósticos se le llama:",
+    "options": {
+      "A": "Biopsia",
+      "B": "Papanicolaou",
+      "C": "Laparoscopía",
+      "D": "Cauterización"
+    },
+    "correctAnswer": "A",
+    "explanation": "La biopsia es la extracción de una muestra de tejido (en este caso uterino) para su análisis histopatológico con fines diagnósticos.",
+    "requiresReview": false
+  },
+  {
+    "id": 148,
+    "question": "Las principales vías de contaminación del VIH son:",
+    "options": {
+      "A": "A través de las relaciones sexuales",
+      "B": "Transfusión de sangre y transmisión de madre a niño",
+      "C": "Por inyección con jeringas contaminadas",
+      "D": "A, B y C son correctas"
+    },
+    "correctAnswer": "D",
+    "explanation": "El VIH se transmite principalmente por: relaciones sexuales sin protección, transfusiones de sangre contaminada, transmisión vertical (madre a hijo) y uso de jeringas compartidas.",
+    "requiresReview": false
+  },
+  {
+    "id": 149,
+    "question": "Se sospecha de tuberculosis en una persona cuando:",
+    "options": {
+      "A": "Aumenta de peso",
+      "B": "Presenta fiebre principalmente de tarde",
+      "C": "Presenta sudoración nocturna",
+      "D": "B y C son verdaderas"
+    },
+    "correctAnswer": "D",
+    "explanation": "Los síntomas sugestivos de tuberculosis incluyen: fiebre vespertina (tarde), sudoración nocturna, tos crónica, pérdida de peso y hemoptisis.",
+    "requiresReview": false
+  },
+  {
+    "id": 150,
+    "question": "Para bajar la fiebre de una persona con dengue, se le debe administrar:",
+    "options": {
+      "A": "Aspirina",
+      "B": "Acetaminofén",
+      "C": "Eliminar criadero",
+      "D": "Todas son correctas"
+    },
+    "correctAnswer": "B",
+    "explanation": "En el dengue ESTÁ CONTRAINDICADO el uso de aspirina (ácido acetilsalicílico) y antiinflamatorios (ibuprofeno) porque aumentan el riesgo de hemorragia. Solo se usa acetaminofén (paracetamol).",
+    "requiresReview": false
+  },
+  {
+    "id": 151,
+    "question": "Medidas para prevenir el dengue:",
+    "options": {
+      "A": "Untar cloro en las paredes internas de los recipientes de almacenamiento por encima del agua",
+      "B": "Tapar los recipientes con agua",
+      "C": "Eliminar criaderos",
+      "D": "Todas son correctas"
+    },
+    "correctAnswer": "D",
+    "explanation": "La prevención del dengue incluye eliminar los criaderos del mosquito Aedes aegypti: tapar recipientes de agua, limpiarlos con cloro y eliminar estancamientos.",
+    "requiresReview": false
+  },
+  {
+    "id": 152,
+    "question": "¿Cuál es la ley que rige el Sistema Nacional de Salud?",
+    "options": {
+      "A": "8-95 (Lactancia materna)",
+      "B": "42-01",
+      "C": "87-01",
+      "D": "24-97"
+    },
+    "correctAnswer": "B",
+    "explanation": "La Ley 42-01 es la Ley General de Salud de la República Dominicana que rige el Sistema Nacional de Salud.",
+    "requiresReview": false
+  },
+  {
+    "id": 153,
+    "question": "Para su reproducción los mosquitos prefieren:",
+    "options": {
+      "A": "Aguas claras y estancadas",
+      "B": "Aguas corrientes",
+      "C": "Aguas sucias corrientes",
+      "D": "Todas son correctas"
+    },
+    "correctAnswer": "A",
+    "explanation": "El mosquito Aedes aegypti (transmisor del dengue) prefiere reproducirse en aguas limpias y estancadas en recipientes artificiales.",
+    "requiresReview": false
+  },
+  {
+    "id": 154,
+    "question": "El paludismo es una infección que destruye:",
+    "options": {
+      "A": "El hígado",
+      "B": "Los glóbulos rojos",
+      "C": "Cerebro",
+      "D": "A y C son correctas"
+    },
+    "correctAnswer": "B",
+    "explanation": "El paludismo (malaria), causado por Plasmodium, destruye los glóbulos rojos (eritrocitos) al reproducirse en su interior, causando anemia hemolítica.",
+    "requiresReview": false
+  },
+  {
+    "id": 155,
+    "question": "Cuando compramos un huevo en el colmado debemos:",
+    "options": {
+      "A": "Guardarlos en la nevera inmediatamente lleguemos a casa",
+      "B": "Lavarlos con agua, jabón y cloro antes de guardarlos en la nevera",
+      "C": "Dejarlos sueltos en la nevera",
+      "D": "Lavarlos antes de consumir"
+    },
+    "correctAnswer": "B",
+    "explanation": "Los huevos deben lavarse con agua, jabón y una solución de cloro antes de guardarlos en la nevera para eliminar microorganismos de la cáscara, como Salmonella.",
+    "requiresReview": false
+  },
+  {
+    "id": 156,
+    "question": "La dismenorrea es:",
+    "options": {
+      "A": "Abundante sangrado durante la menstruación",
+      "B": "Dolor durante la menstruación",
+      "C": "Disminución de la cantidad de sangre",
+      "D": "A y C son correctas"
+    },
+    "correctAnswer": "B",
+    "explanation": "La dismenorrea es el dolor abdominal o pélvico que ocurre durante la menstruación. Puede ser primaria (sin causa orgánica) o secundaria (endometriosis, miomas).",
+    "requiresReview": false
+  },
+  {
+    "id": 157,
+    "question": "¿Cuál es la dosis para administrar la BCG?",
+    "options": {
+      "A": "0.5 cc",
+      "B": "0.3 cc",
+      "C": "0.01 cc",
+      "D": "0.1 cc"
+    },
+    "correctAnswer": "D",
+    "explanation": "La vacuna BCG se administra por vía intradérmica en una dosis de 0.1 cc (0.1 ml) en el deltoides del brazo derecho.",
+    "requiresReview": false
+  },
+  {
+    "id": 158,
+    "question": "Complicaciones que se presentan en un niño con diarrea:",
+    "options": {
+      "A": "Desnutrición",
+      "B": "Anemia",
+      "C": "Deshidratación",
+      "D": "Todas son correctas"
+    },
+    "correctAnswer": "D",
+    "explanation": "La diarrea en niños puede causar: deshidratación (pérdida de líquidos y electrolitos), desnutrición (malabsorción) y anemia (pérdida de nutrientes esenciales).",
+    "requiresReview": false
+  },
+  {
+    "id": 159,
+    "question": "¿De qué forma se administra la vacuna pentavalente?",
+    "options": {
+      "A": "Intradérmica",
+      "B": "Intramuscular",
+      "C": "Sub-cutánea",
+      "D": "Oral"
+    },
+    "correctAnswer": "B",
+    "explanation": "La vacuna pentavalente (contra DPT, Hib y hepatitis B) se administra por vía intramuscular en la cara anterolateral del muslo en lactantes.",
+    "requiresReview": false
+  },
+  {
+    "id": 160,
+    "question": "Después de alimentar a un paciente con sonda nasogástrica, el procedimiento recomienda irrigar 30 ml de agua. ¿Podría indicar con qué finalidad?",
+    "options": {
+      "A": "Evitar la formación de costras, obstrucción de la sonda y representación de bacterias",
+      "B": "Hidratar al paciente",
+      "C": "Evitar que el alimento refluya por la sonda",
+      "D": "Por sistema, no existe fundamento que lo justifique"
+    },
+    "correctAnswer": "A",
+    "explanation": "La irrigación con agua tras la alimentación por SNG tiene como objetivo limpiar la sonda, evitar la formación de costras y obstrucciones, y prevenir la proliferación bacteriana.",
+    "requiresReview": false
+  },
+  {
+    "id": 161,
+    "question": "Una de la importancia de los registros de enfermería es que se constituyen en documentos:",
+    "options": {
+      "A": "De continuidad de la atención",
+      "B": "Tácticos",
+      "C": "Normativos",
+      "D": "Legales"
+    },
+    "correctAnswer": "D",
+    "explanation": "Los registros de enfermería tienen valor legal como documentos que evidencian la atención brindada y pueden ser utilizados en procesos legales, además de servir para la continuidad del cuidado.",
+    "requiresReview": false
+  },
+  {
+    "id": 162,
+    "question": "¿Qué es un coprocultivo?",
+    "options": {
+      "A": "Un estudio del exudado vaginal",
+      "B": "Un estudio del exudado laríngeo",
+      "C": "Un estudio bacteriológico de las heces",
+      "D": "Ninguna de las anteriores es correcta"
+    },
+    "correctAnswer": "C",
+    "explanation": "El coprocultivo es el cultivo bacteriológico de las heces fecales para identificar agentes patógenos causantes de infecciones gastrointestinales.",
+    "requiresReview": false
+  },
+  {
+    "id": 163,
+    "question": "¿Cuál de los siguientes principios básicos de la mecánica corporal es correcto?",
+    "options": {
+      "A": "La estabilidad de un objeto es siempre mayor cuando la línea de gravedad cae perpendicular a la base de sustentación",
+      "B": "La estabilidad de un objeto siempre es menor cuando tiene una base amplia de apoyo",
+      "C": "La estabilidad de un objeto siempre es mayor cuando tiene un centro de gravedad elevado",
+      "D": "La estabilidad de un objeto siempre es menor cuando la línea de gravedad cae dentro de la base de apoyo"
+    },
+    "correctAnswer": "A",
+    "explanation": "Un objeto es más estable cuando su línea de gravedad cae dentro de la base de sustentación y lo más perpendicular posible. Una base amplia y un centro de gravedad bajo también aumentan la estabilidad.",
+    "requiresReview": false
+  },
+  {
+    "id": 164,
+    "question": "Usted recibió un paciente con sangrado profuso, fractura del antebrazo, hiperpirexia. Sus intervenciones inmediatas serían:",
+    "options": {
+      "A": "Limpiar sangre, llevar a Rx, y bajar temperatura",
+      "B": "Asegurar vía, bajar temperatura y llevar a Rx",
+      "C": "Asegurar vía y llamar al médico",
+      "D": "Bajar temperatura, asegurar vía y dar posición"
+    },
+    "correctAnswer": "C",
+    "explanation": "En una emergencia con sangrado profuso, fractura e hiperpirexia, la prioridad es asegurar la vía aérea y llamar al médico de inmediato para intervención especializada.",
+    "requiresReview": false
+  },
+  {
+    "id": 165,
+    "question": "Indicar lo correcto con respecto al uso de mascarillas:",
+    "options": {
+      "A": "En las intervenciones quirúrgicas su uso es obligatorio",
+      "B": "No solo debe cubrir la boca, sino también la nariz y el mentón",
+      "C": "Hay que cambiarla cada tres horas de trabajo o si humedecen en exceso",
+      "D": "Todas las anteriores son correctas"
+    },
+    "correctAnswer": "D",
+    "explanation": "El uso correcto de mascarillas: es obligatorio en quirófano, debe cubrir nariz, boca y mentón, y debe cambiarse cada 3 horas o cuando se humedezca para mantener su efectividad.",
+    "requiresReview": false
+  },
+  {
+    "id": 166,
+    "question": "¿Qué es una zona séptica?",
+    "options": {
+      "A": "Una zona infectada",
+      "B": "Una zona esterilizada",
+      "C": "Una zona sucia",
+      "D": "Una zona desinfectada"
+    },
+    "correctAnswer": "A",
+    "explanation": "Una zona séptica es un área contaminada o infectada por microorganismos. Lo contrario es una zona aséptica (libre de microorganismos patógenos).",
+    "requiresReview": false
+  },
+  {
+    "id": 167,
+    "question": "Se usarán guantes estériles para realizar el:",
+    "options": {
+      "A": "Sondaje rectal",
+      "B": "Sondaje nasogástrico",
+      "C": "Sondaje vesical",
+      "D": "Todas las anteriores"
+    },
+    "correctAnswer": "C",
+    "explanation": "El sondaje vesical requiere técnica estéril con guantes estériles, pues la vejiga es normalmente estéril y el sondaje puede introducir microorganismos causando infección urinaria.",
+    "requiresReview": false
+  },
+  {
+    "id": 168,
+    "question": "Tubos de la vía urinaria que trasladan la orina de los riñones a la vejiga, se denominan:",
+    "options": {
+      "A": "Uréteres",
+      "B": "Uretra",
+      "C": "Recto",
+      "D": "Ano"
+    },
+    "correctAnswer": "A",
+    "explanation": "Los uréteres son los conductos que transportan la orina desde los riñones hasta la vejiga urinaria. La uretra conduce la orina de la vejiga al exterior.",
+    "requiresReview": false
+  },
+  {
+    "id": 169,
+    "question": "La cantidad máxima de líquido en la inyección intramuscular en el músculo deltoides en el adulto es de:",
+    "options": {
+      "A": "10 CC",
+      "B": "1 CC",
+      "C": "3 CC",
+      "D": "5 CC"
+    },
+    "correctAnswer": "B",
+    "explanation": "El músculo deltoides en adultos tiene capacidad limitada; la cantidad máxima recomendada para inyección IM en deltoides es 1 cc (1 ml).",
+    "requiresReview": false
+  },
+  {
+    "id": 170,
+    "question": "Al instrumento que sirve de registro de vacunas, evalúa el crecimiento y desarrollo infantil, se llama:",
+    "options": {
+      "A": "Carnet de seguro médico",
+      "B": "Cédula de salud del/a niño/a",
+      "C": "Ficha familiar",
+      "D": "Tarjeta de solidaridad"
+    },
+    "correctAnswer": "B",
+    "explanation": "La cédula de salud del niño/a es el documento que registra el esquema de vacunación, medidas antropométricas y el seguimiento del crecimiento y desarrollo infantil.",
+    "requiresReview": false
+  },
+  {
+    "id": 171,
+    "question": "¿Qué son las petequias?",
+    "options": {
+      "A": "Bacterias patógenas de la piel",
+      "B": "Un tipo de anticuerpos",
+      "C": "Unas pequeñas proteínas",
+      "D": "Hemorragias de tipo uniforme"
+    },
+    "correctAnswer": "D",
+    "explanation": "Las petequias son pequeñas hemorragias puntiformes (menores de 3 mm) en la piel o mucosas, causadas por ruptura de capilares sanguíneos.",
+    "requiresReview": false
+  },
+  {
+    "id": 172,
+    "question": "Técnica de inyección en la que se forma un ángulo recto con la piel:",
+    "options": {
+      "A": "Subcutánea",
+      "B": "Sublingual",
+      "C": "Intramuscular",
+      "D": "Intradérmica"
+    },
+    "correctAnswer": "C",
+    "explanation": "La inyección intramuscular se realiza con la aguja formando un ángulo de 90° (ángulo recto) con la piel para asegurar la penetración correcta en el músculo.",
+    "requiresReview": false
+  },
+  {
+    "id": 173,
+    "question": "La acción de orientar al/a paciente sobre todo procedimiento a realizarle con la finalidad de obtener su aprobación se denomina:",
+    "options": {
+      "A": "Consentimiento informado",
+      "B": "Educación de referencia",
+      "C": "Relación enfermera-paciente",
+      "D": "Humanización de la atención"
+    },
+    "correctAnswer": "A",
+    "explanation": "El consentimiento informado es el proceso mediante el cual se informa al paciente sobre un procedimiento y se obtiene su aprobación voluntaria antes de realizarlo.",
+    "requiresReview": false
+  },
+  {
+    "id": 174,
+    "question": "¿Cómo se denomina la presencia de aire en la cavidad pleural?",
+    "options": {
+      "A": "Hidrotórax",
+      "B": "Pleuritis",
+      "C": "Neumotórax",
+      "D": "Hemotórax"
+    },
+    "correctAnswer": "C",
+    "explanation": "El neumotórax es la presencia de aire en la cavidad pleural. El hidrotórax es líquido, el hemotórax es sangre y la pleuritis es inflamación de la pleura.",
+    "requiresReview": false
+  },
+  {
+    "id": 175,
+    "question": "Instrumento que permite recoger datos socio-demográficos y de salud de los habitantes de un territorio, para identificar e intervenir los riesgos y problemas de salud, medir niveles de pobreza y categorizar la población.",
+    "options": {
+      "A": "Tarjeta de solidaridad",
+      "B": "Carnet de seguro",
+      "C": "Ficha familiar",
+      "D": "Encuesta"
+    },
+    "correctAnswer": "C",
+    "explanation": "La ficha familiar es el instrumento de salud comunitaria que recoge datos sociodemográficos y de salud de una familia/territorio para planificar intervenciones de salud pública.",
+    "requiresReview": false
+  },
+  {
+    "id": 176,
+    "question": "Cuando nos referimos a un enfermo con incontinencia, es que:",
+    "options": {
+      "A": "Tiene líquido en la cavidad pleural",
+      "B": "No controla sus micciones",
+      "C": "Tiene hemorragias digestivas",
+      "D": "No tiene apetito"
+    },
+    "correctAnswer": "B",
+    "explanation": "La incontinencia urinaria es la pérdida involuntaria del control de la vejiga, es decir, el paciente no puede controlar el momento de orinar.",
+    "requiresReview": false
+  },
+  {
+    "id": 177,
+    "question": "¿Qué instrumento es utilizado para la exploración del ojo?",
+    "options": {
+      "A": "Oftalmoscopio",
+      "B": "Otoscopia",
+      "C": "Laringo",
+      "D": "Espéculo"
+    },
+    "correctAnswer": "A",
+    "explanation": "El oftalmoscopio es el instrumento óptico usado para examinar el interior del ojo, incluyendo la retina, el nervio óptico y los vasos sanguíneos oculares.",
+    "requiresReview": false
+  },
+  {
+    "id": 178,
+    "question": "Aspecto humano que debe aplicar el auxiliar de enfermería al dar cuidados a los usuarios de los servicios de salud:",
+    "options": {
+      "A": "Tratar a cada persona de acuerdo a su posición económica y social",
+      "B": "Tratar a cada persona con igualdad y respeto",
+      "C": "Llamarlo por su diagnóstico",
+      "D": "Llamarlo por el número de cama"
+    },
+    "correctAnswer": "B",
+    "explanation": "El principio de humanización en enfermería exige tratar a cada paciente con igualdad y respeto, independientemente de su condición socioeconómica, cultural o de salud.",
+    "requiresReview": false
+  },
+  {
+    "id": 179,
+    "question": "Con respecto a la atención arterial mínima (presión diastólica), esta no debe ser superior de:",
+    "options": {
+      "A": "60 MmHg",
+      "B": "90 MmHg",
+      "C": "120 MmHg",
+      "D": "150 MmHg"
+    },
+    "correctAnswer": "B",
+    "explanation": "La presión arterial diastólica (mínima) no debe superar los 90 mmHg. Valores iguales o superiores a 90 mmHg en la diastólica indican hipertensión.",
+    "requiresReview": false
+  },
+  {
+    "id": 180,
+    "question": "¿Cómo colocarías a un paciente inconsciente para realizarle la higiene bucal?",
+    "options": {
+      "A": "Posición de Fowler",
+      "B": "Decúbito supino con la cabeza de lado",
+      "C": "Semisentado",
+      "D": "Todas las anteriores son correctas"
+    },
+    "correctAnswer": "B",
+    "explanation": "El paciente inconsciente debe colocarse en decúbito supino con la cabeza lateralizada para prevenir la aspiración de líquidos durante la higiene bucal.",
+    "requiresReview": false
+  },
+  {
+    "id": 181,
+    "question": "La limpieza séptica de una herida y área adyacente se denomina:",
+    "options": {
+      "A": "Suturas",
+      "B": "Curación",
+      "C": "Cicatrización",
+      "D": "Prevención"
+    },
+    "correctAnswer": "B",
+    "explanation": "La curación es el procedimiento de limpieza y antisepsia de una herida y su área circundante para prevenir la infección y favorecer la cicatrización.",
+    "requiresReview": false
+  },
+  {
+    "id": 182,
+    "question": "Las Unidades de Atención Primaria en el país se conocen con la sigla:",
+    "options": {
+      "A": "UNAPS",
+      "B": "SESPAS",
+      "C": "OPS",
+      "D": "OMS"
+    },
+    "correctAnswer": "A",
+    "explanation": "Las UNAPS (Unidades de Atención Primaria en Salud) son las instalaciones de primer nivel de atención en salud en República Dominicana.",
+    "requiresReview": false
+  },
+  {
+    "id": 183,
+    "question": "La infección de un hueso recibe el nombre de:",
+    "options": {
+      "A": "Fractura",
+      "B": "Esquince",
+      "C": "Osteomielitis",
+      "D": "Artritis"
+    },
+    "correctAnswer": "C",
+    "explanation": "La osteomielitis es la infección del hueso, generalmente causada por bacterias (Staphylococcus aureus es el más común), que puede ser aguda o crónica.",
+    "requiresReview": false
+  },
+  {
+    "id": 184,
+    "question": "¿Qué actuación debe realizarse para ayudar a un enfermo hemipléjico a sentarse en la silla de ruedas?",
+    "options": {
+      "A": "Frenar la silla y levantar los soportes de los pies",
+      "B": "Frenar la silla y bajar los soportes de los pies",
+      "C": "Desfrenar la silla y levantar los soportes de los pies",
+      "D": "Cualquiera de las anteriores es correcta"
+    },
+    "correctAnswer": "A",
+    "explanation": "Para movilizar a un paciente a la silla de ruedas se debe: frenar la silla (para que no se mueva) y levantar/retirar los soportes de los pies para facilitar la transferencia.",
+    "requiresReview": false
+  },
+  {
+    "id": 185,
+    "question": "Las enfermedades más frecuentes del aparato digestivo y órganos anexos son:",
+    "options": {
+      "A": "Todas son correctas",
+      "B": "Hepatitis, cirrosis, colelitiasis",
+      "C": "Pancreatitis",
+      "D": "Gastritis, úlceras, colitis, infección intestinal"
+    },
+    "correctAnswer": "A",
+    "explanation": "Las enfermedades digestivas más frecuentes incluyen gastritis, úlceras, colitis, infecciones intestinales, hepatitis, cirrosis, colelitiasis y pancreatitis.",
+    "requiresReview": false
+  },
+  {
+    "id": 186,
+    "question": "Las necesidades que comprometen la vida de la persona son:",
+    "options": {
+      "A": "Psicológicas",
+      "B": "Fisiológicas",
+      "C": "Integrales",
+      "D": "Humanas"
+    },
+    "correctAnswer": "B",
+    "explanation": "Según Maslow, las necesidades fisiológicas (respiración, alimentación, agua, temperatura, sueño) son las más básicas y su no satisfacción compromete directamente la vida.",
+    "requiresReview": false
+  },
+  {
+    "id": 187,
+    "question": "Para el lavado del cabello de un paciente encamado, hay que colocarlo en la posición de:",
+    "options": {
+      "A": "Fowler",
+      "B": "Morestin",
+      "C": "Roser",
+      "D": "Sims"
+    },
+    "correctAnswer": "C",
+    "explanation": "La posición de Roser (o de Rose) es la posición de hiperextensión de cuello usada para el lavado del cabello en paciente encamado, colocando la cabeza fuera del borde superior de la cama.",
+    "requiresReview": false
+  },
+  {
+    "id": 188,
+    "question": "¿Cuál de las siguientes acciones debe realizar como auxiliar de enfermería en un paciente que se le administra solución intravenosa?",
+    "options": {
+      "A": "Controla líquidos, vigilar temperatura y peso corporal",
+      "B": "Controlar el goteo y vigilar la permeabilidad del catéter",
+      "C": "Controlar el peso cada hora y observar el goteo",
+      "D": "Chequear signos vitales y peso cada 15 minutos"
+    },
+    "correctAnswer": "B",
+    "explanation": "En un paciente con venoclisis, las acciones esenciales son vigilar el goteo (velocidad de infusión) y la permeabilidad del catéter IV para asegurar la correcta administración.",
+    "requiresReview": false
+  },
+  {
+    "id": 189,
+    "question": "El tratamiento quirúrgico del riñón corresponde a:",
+    "options": {
+      "A": "Cirujano general",
+      "B": "Urólogo",
+      "C": "Reumatólogo",
+      "D": "Nefrólogo"
+    },
+    "correctAnswer": "B",
+    "explanation": "El urólogo es el especialista que realiza cirugías del sistema urinario (riñones, uréteres, vejiga). El nefrólogo trata enfermedades renales médicamente (sin cirugía).",
+    "requiresReview": false
+  },
+  {
+    "id": 190,
+    "question": "El baño al paciente encamado lo realizará:",
+    "options": {
+      "A": "La enfermera",
+      "B": "El auxiliar de enfermería, bajo la supervisión de la enfermera",
+      "C": "El médico",
+      "D": "El auxiliar de enfermería, bajo la supervisión del médico"
+    },
+    "correctAnswer": "B",
+    "explanation": "El baño en cama es una función del auxiliar de enfermería, realizada bajo la supervisión y dirección de la enfermera graduada o licenciada.",
+    "requiresReview": false
+  },
+  {
+    "id": 191,
+    "question": "En aseo del paciente encamado debe realizarse:",
+    "options": {
+      "A": "Cubriéndolo parcialmente con una prenda",
+      "B": "Poniéndolo de pie",
+      "C": "Con el paciente totalmente desnudo",
+      "D": "Sentado en una esquina de la cama"
+    },
+    "correctAnswer": "A",
+    "explanation": "Durante el aseo del paciente encamado se debe preservar su pudor e intimidad, cubriéndolo parcialmente con una prenda o sábana, destapando solo el área a higienizar.",
+    "requiresReview": false
+  },
+  {
+    "id": 192,
+    "question": "La disfagia:",
+    "options": {
+      "A": "Aparece en la diabetes, asociada con polifagia",
+      "B": "Se refiere a enfermedad del aparato digestivo",
+      "C": "Es una acumulación de bases en el intestino",
+      "D": "Es un síntoma frecuente en alteraciones patológicas del esófago"
+    },
+    "correctAnswer": "D",
+    "explanation": "La disfagia (dificultad para deglutir) es un síntoma frecuente en enfermedades del esófago (esofagitis, estenosis, cáncer esofágico) y otras condiciones neurológicas.",
+    "requiresReview": false
+  },
+  {
+    "id": 193,
+    "question": "¿Por qué vía se contagia la tuberculosis?",
+    "options": {
+      "A": "Aérea",
+      "B": "Fomites",
+      "C": "Agua y alimentos",
+      "D": "Contacto sexual"
+    },
+    "correctAnswer": "A",
+    "explanation": "La tuberculosis se transmite principalmente por vía aérea, a través de las gotículas de Flügge (microgotas) que emite el paciente bacilífero al toser, estornudar o hablar.",
+    "requiresReview": false
+  },
+  {
+    "id": 194,
+    "question": "¿Cuáles cuidados de enfermería debe dar a un paciente con insuficiencia cardíaca congestiva?",
+    "options": {
+      "A": "Medir diuresis, controlar peso, proporcionar dieta hiposódica",
+      "B": "Cambiar de posición, dieta hipercalórica y control de peso",
+      "C": "Vigilar sueño, controlar peso y alimentar",
+      "D": "Baño en cama, cambio de posición frecuente y alimentar"
+    },
+    "correctAnswer": "A",
+    "explanation": "En la insuficiencia cardíaca congestiva se monitorea la diuresis (balance hídrico), el peso diario (para detectar retención de líquidos) y se prescribe dieta baja en sodio.",
+    "requiresReview": false
+  },
+  {
+    "id": 195,
+    "question": "¿Cuál es la longitud media de un niño al nacer?",
+    "options": {
+      "A": "35 cm",
+      "B": "75 cm",
+      "C": "50 cm",
+      "D": "60 cm"
+    },
+    "correctAnswer": "C",
+    "explanation": "La longitud promedio de un neonato al nacer es de aproximadamente 50 cm (rango normal: 48-52 cm).",
+    "requiresReview": false
+  },
+  {
+    "id": 196,
+    "question": "A la inflamación de la lengua la denominamos:",
+    "options": {
+      "A": "Piorrea",
+      "B": "Disfagia",
+      "C": "Halitosis",
+      "D": "Glositis"
+    },
+    "correctAnswer": "D",
+    "explanation": "La glositis es la inflamación de la lengua, que puede manifestarse con eritema, edema y cambios en la superficie lingual.",
+    "requiresReview": false
+  },
+  {
+    "id": 197,
+    "question": "En el traslado de un enfermo, el auxiliar de enfermería debe evitar:",
+    "options": {
+      "A": "Abandonar al paciente",
+      "B": "Dejar el paciente entre corrientes de aire",
+      "C": "Realizar movimientos bruscos",
+      "D": "Todas las respuestas anteriores son correctas"
+    },
+    "correctAnswer": "D",
+    "explanation": "En el traslado de pacientes se deben evitar: el abandono, la exposición a corrientes de aire y los movimientos bruscos que puedan causar dolor, caídas o desconexión de dispositivos.",
+    "requiresReview": false
+  },
+  {
+    "id": 198,
+    "question": "Dentro de las medidas de prevención de las infecciones intrahospitalarias, la de mayor eficacia probada es:",
+    "options": {
+      "A": "Cambiar la ropa de cama en cada turno",
+      "B": "Bañar al paciente en cada turno",
+      "C": "El lavado de manos",
+      "D": "Mantener puertas y ventanas de la habitación del paciente abiertas"
+    },
+    "correctAnswer": "C",
+    "explanation": "El lavado de manos es la medida más efectiva y con mayor evidencia científica para prevenir infecciones nosocomiales (intrahospitalarias).",
+    "requiresReview": false
+  },
+  {
+    "id": 199,
+    "question": "El término necropsia, ¿de qué es sinónimo?",
+    "options": {
+      "A": "Inhumación",
+      "B": "Necrosis",
+      "C": "Exhumación",
+      "D": "Autopsia"
+    },
+    "correctAnswer": "D",
+    "explanation": "Necropsia y autopsia son términos sinónimos que se refieren al examen médico del cadáver para determinar la causa de la muerte.",
+    "requiresReview": false
+  },
+  {
+    "id": 200,
+    "question": "Está ubicada en el primer nivel de atención dotada de una adecuada capacidad resolutiva y es la puerta de entrada a la red de servicios de salud:",
+    "options": {
+      "A": "UNAP",
+      "B": "Zona de Salud",
+      "C": "Gerencia de Área",
+      "D": "CPN"
+    },
+    "correctAnswer": "A",
+    "explanation": "La UNAP (Unidad de Atención Primaria) es el primer nivel de atención en salud, con capacidad resolutiva básica y constituye la puerta de entrada al sistema de salud.",
+    "requiresReview": false
+  },
+  {
+    "id": 201,
+    "question": "¿Cuál es el servicio del hospital encargado de los enfermos de cáncer?",
+    "options": {
+      "A": "Neonatología",
+      "B": "Medicina Interna",
+      "C": "Oncología",
+      "D": "Cuidados Paliativos"
+    },
+    "correctAnswer": "C",
+    "explanation": "La oncología es la especialidad médica que se encarga del diagnóstico y tratamiento del cáncer (tumores malignos).",
+    "requiresReview": false
+  },
+  {
+    "id": 202,
+    "question": "¿Qué precauciones se deben tomar al hacer la cama de un paciente?",
+    "options": {
+      "A": "Respetar su intimidad",
+      "B": "Evitar desconectar sondas, sueros y drenajes",
+      "C": "Evitar arrugar la ropa",
+      "D": "Todas las respuestas anteriores son ciertas"
+    },
+    "correctAnswer": "D",
+    "explanation": "Al hacer la cama a un paciente se debe: respetar la privacidad, no desconectar dispositivos médicos y mantener la ropa lisa para evitar úlceras por presión.",
+    "requiresReview": false
+  },
+  {
+    "id": 203,
+    "question": "Su uso correcto permite al personal de enfermería evitar riesgo de daño a la salud a causa de movimientos y posturas:",
+    "options": {
+      "A": "Ergonomía",
+      "B": "Mecánica corporal",
+      "C": "Posiciones de seguridad",
+      "D": "Bioseguridad"
+    },
+    "correctAnswer": "B",
+    "explanation": "La mecánica corporal es la aplicación de principios físicos y biomecánicos al cuerpo humano para prevenir lesiones musculo-esqueléticas en el personal de enfermería.",
+    "requiresReview": false
+  },
+  {
+    "id": 204,
+    "question": "¿Cuáles son las aptitudes y comportamientos que facilitan la relación positiva con el enfermo?",
+    "options": {
+      "A": "Saber escuchar, respeto y comprensión",
+      "B": "Interés, disposición y amabilidad",
+      "C": "Hacer el trabajo rápidamente y decirle que más tarde le escuchará",
+      "D": "Las respuestas A y B son correctas"
+    },
+    "correctAnswer": "D",
+    "explanation": "Una buena relación terapéutica requiere: escucha activa, respeto, comprensión, interés genuino, disposición y amabilidad hacia el paciente.",
+    "requiresReview": false
+  },
+  {
+    "id": 205,
+    "question": "¿Cómo se denomina la posición corporal que se utiliza en ciertos tipos de cirugía y en algunos casos de choque y hemorragia para corregir la hipotensión arterial?",
+    "options": {
+      "A": "Anti-Trendelenburg",
+      "B": "Fowler",
+      "C": "Ortopneica",
+      "D": "Trendelenburg"
+    },
+    "correctAnswer": "D",
+    "explanation": "La posición de Trendelenburg (cabeza abajo, pies arriba) se usa en shock hipovolémico y hemorragia para favorecer el retorno venoso al corazón y mejorar la perfusión cerebral.",
+    "requiresReview": false
+  },
+  {
+    "id": 206,
+    "question": "La necesidad de orinar durante la noche se denomina:",
+    "options": {
+      "A": "Tenesmo vesical",
+      "B": "Polaquiuria",
+      "C": "Nicturia",
+      "D": "Disuria"
+    },
+    "correctAnswer": "C",
+    "explanation": "La nicturia (o nocturia) es la necesidad de levantarse a orinar durante la noche, interrumpiendo el sueño. Es un síntoma frecuente en hiperplasia prostática, diabetes e insuficiencia cardíaca.",
+    "requiresReview": false
+  },
+  {
+    "id": 207,
+    "question": "Posición en la cual existe una adecuada alineación de todas las partes del cuerpo:",
+    "options": {
+      "A": "Fowler",
+      "B": "Sims",
+      "C": "Anatómica",
+      "D": "Dorsal"
+    },
+    "correctAnswer": "C",
+    "explanation": "La posición anatómica es la postura de referencia en la cual el cuerpo está en alineación correcta: de pie, con la mirada al frente, brazos a los lados con palmas hacia adelante.",
+    "requiresReview": false
+  },
+  {
+    "id": 208,
+    "question": "¿Para qué es importante el secado correcto entre los dedos de los pies?",
+    "options": {
+      "A": "Para evitar la infección por hongos",
+      "B": "Para evitar el mal olor",
+      "C": "Las respuestas A y B son correctas",
+      "D": "Para evitar las durezas"
+    },
+    "correctAnswer": "C",
+    "explanation": "El secado correcto entre los dedos de los pies previene la humedad que favorece el crecimiento de hongos (pie de atleta/tinea pedis) y también reduce el mal olor (bromhidrosis).",
+    "requiresReview": false
+  },
+  {
+    "id": 209,
+    "question": "¿A qué se denomina 'efecto secundario' de un fármaco? Al efecto...",
+    "options": {
+      "A": "Colateral que no es intencionado",
+      "B": "Deseado o efecto principal que se pretende",
+      "C": "Adverso o terciario que se pretende",
+      "D": "Potenciador del fármaco"
+    },
+    "correctAnswer": "A",
+    "explanation": "El efecto secundario es el efecto colateral no intencionado de un fármaco que surge además del efecto terapéutico principal.",
+    "requiresReview": false
+  },
+  {
+    "id": 210,
+    "question": "¿De qué otra forma se conoce también a la posición ginecológica?",
+    "options": {
+      "A": "Sims",
+      "B": "Litotomía",
+      "C": "Decúbito prono",
+      "D": "Fowler"
+    },
+    "correctAnswer": "B",
+    "explanation": "La posición ginecológica también se conoce como litotomía: decúbito supino con caderas y rodillas flexionadas y en abducción, con los pies en estribos.",
+    "requiresReview": false
+  },
+  {
+    "id": 211,
+    "question": "El lavado genital se hará siguiendo el orden siguiente:",
+    "options": {
+      "A": "De la zona anal a pubis",
+      "B": "De pubis a ano",
+      "C": "No existen diferencias",
+      "D": "Todas son falsas"
+    },
+    "correctAnswer": "B",
+    "explanation": "El lavado genital debe realizarse de adelante hacia atrás (de pubis a zona anal) para evitar la contaminación de la región genital con microorganismos del área anal.",
+    "requiresReview": false
+  },
+  {
+    "id": 212,
+    "question": "Demarcación geográfica donde habitan conjuntos de personas organizadas en familias bajo ciertas reglas o que tienen los mismos intereses:",
+    "options": {
+      "A": "Mapa",
+      "B": "CPN",
+      "C": "UNAP",
+      "D": "Comunidad"
+    },
+    "correctAnswer": "D",
+    "explanation": "La comunidad es un grupo de personas que comparten un territorio geográfico, vínculos sociales, normas comunes e intereses colectivos.",
+    "requiresReview": false
+  },
+  {
+    "id": 213,
+    "question": "¿Para qué sirve un esfigmomanómetro?",
+    "options": {
+      "A": "Medir la temperatura basal",
+      "B": "Medir la frecuencia cardíaca",
+      "C": "Medir la presión arterial",
+      "D": "Todas las anteriores son correctas"
+    },
+    "correctAnswer": "C",
+    "explanation": "El esfigmomanómetro es el instrumento utilizado específicamente para medir la presión arterial (tensión arterial).",
+    "requiresReview": false
+  },
+  {
+    "id": 214,
+    "question": "¿Qué significa el término Hematuria?",
+    "options": {
+      "A": "Presencia de proteínas en la orina",
+      "B": "Presencia de azúcar en la orina",
+      "C": "Presencia de sangre en la orina",
+      "D": "Escozor y dolor al orinar"
+    },
+    "correctAnswer": "C",
+    "explanation": "La hematuria es la presencia de sangre (eritrocitos) en la orina. Puede ser macroscópica (visible) o microscópica (solo detectable en laboratorio).",
+    "requiresReview": false
+  },
+  {
+    "id": 215,
+    "question": "Posición en que se coloca el paciente para administrar un enema:",
+    "options": {
+      "A": "Fowler",
+      "B": "Sims",
+      "C": "Litotomía",
+      "D": "Genupectoral"
+    },
+    "correctAnswer": "B",
+    "explanation": "La posición de Sims (decúbito lateral izquierdo con rodilla derecha flexionada) es la posición estándar para la administración de enemas.",
+    "requiresReview": false
+  },
+  {
+    "id": 216,
+    "question": "La movilización es la aplicación de una serie de ejercicios realizados para:",
+    "options": {
+      "A": "Favorecer retornos venosos",
+      "B": "Prevenir úlceras por presión",
+      "C": "Ayudar al enfermo a recuperar progresivamente la movilidad de los miembros lesionados",
+      "D": "Todas las respuestas anteriores son correctas"
+    },
+    "correctAnswer": "D",
+    "explanation": "La movilización terapéutica tiene múltiples beneficios: favorece el retorno venoso, previene úlceras por presión, previene trombosis y ayuda a recuperar la movilidad.",
+    "requiresReview": false
+  },
+  {
+    "id": 217,
+    "question": "¿Cuándo considera usted que es necesario el uso de guantes estériles?",
+    "options": {
+      "A": "Para pesar a un paciente",
+      "B": "Para pasar una sonda vesical",
+      "C": "Para bañar el paciente en cama",
+      "D": "Cuando alimenta el paciente"
+    },
+    "correctAnswer": "B",
+    "explanation": "Los guantes estériles son necesarios para procedimientos invasivos en zonas normalmente estériles, como el sondaje vesical, para prevenir infecciones urinarias.",
+    "requiresReview": false
+  },
+  {
+    "id": 218,
+    "question": "La ley que rige el Sistema Nacional de Salud es la:",
+    "options": {
+      "A": "87-95",
+      "B": "42-01",
+      "C": "24-97",
+      "D": "87-01"
+    },
+    "correctAnswer": "B",
+    "explanation": "La Ley 42-01 es la Ley General de Salud de República Dominicana que establece el marco regulatorio del Sistema Nacional de Salud.",
+    "requiresReview": false
+  },
+  {
+    "id": 219,
+    "question": "¿Cuál es la causa más frecuente de obesidad?",
+    "options": {
+      "A": "Sedentarismo",
+      "B": "Por trastornos endocrinológicos",
+      "C": "Por malos hábitos alimenticios",
+      "D": "Todas las anteriores"
+    },
+    "correctAnswer": "D",
+    "explanation": "La obesidad es multifactorial: el sedentarismo, los malos hábitos alimentarios y en menor proporción los trastornos endocrinos (hipotiroidismo, Cushing) contribuyen a su desarrollo.",
+    "requiresReview": false
+  },
+  {
+    "id": 220,
+    "question": "¿Cuál es el instrumento utilizado por el médico en la exploración del oído externo?",
+    "options": {
+      "A": "Oftalmoscopio",
+      "B": "Espéculo",
+      "C": "Laringo",
+      "D": "Otoscopio"
+    },
+    "correctAnswer": "D",
+    "explanation": "El otoscopio es el instrumento utilizado para examinar el conducto auditivo externo y el tímpano.",
+    "requiresReview": false
+  },
+  {
+    "id": 221,
+    "question": "¿Qué es 'purgar un suero'?",
+    "options": {
+      "A": "Quitar el aire que tenga el sistema",
+      "B": "Impedir que la sangre del paciente refluya hacia el sistema",
+      "C": "Perfundir el suero a un paciente",
+      "D": "Ninguna de las anteriores es correcta"
+    },
+    "correctAnswer": "A",
+    "explanation": "Purgar un suero (venoclisis) consiste en eliminar el aire del sistema de infusión antes de conectarlo al paciente para prevenir la embolia gaseosa.",
+    "requiresReview": false
+  },
+  {
+    "id": 222,
+    "question": "La prueba que estudia la función respiratoria se llama:",
+    "options": {
+      "A": "Fibrobroncoscopía",
+      "B": "Broncoscopía",
+      "C": "Espirometría",
+      "D": "Endoscopía"
+    },
+    "correctAnswer": "C",
+    "explanation": "La espirometría es la prueba funcional respiratoria que mide los volúmenes y flujos de aire pulmonar para evaluar la función ventilatoria.",
+    "requiresReview": false
+  },
+  {
+    "id": 223,
+    "question": "¿Qué funciones de las siguientes cree que debería cumplir la higiene?",
+    "options": {
+      "A": "Eliminar los microorganismos",
+      "B": "Fomentar el descanso y relax",
+      "C": "Eliminar las secreciones y excreciones corporales",
+      "D": "Todas las mencionadas"
+    },
+    "correctAnswer": "D",
+    "explanation": "La higiene corporal cumple múltiples funciones: eliminar microorganismos, remover secreciones y excreciones, proporcionar bienestar y confort al paciente.",
+    "requiresReview": false
+  },
+  {
+    "id": 224,
+    "question": "Para realizar una cura quirúrgica usted procede:",
+    "options": {
+      "A": "Preparar bandeja, oriente al paciente y realizar desinfección del área",
+      "B": "Retirar apósitos, preparar bandeja y realizar una cura",
+      "C": "Orienta al paciente, usa guantes estériles y realizar cura",
+      "D": "Preparar bandeja, orientar al paciente, se coloca los guantes y realizar cura"
+    },
+    "correctAnswer": "D",
+    "explanation": "El procedimiento correcto de curación quirúrgica incluye: preparar el material, orientar al paciente sobre el procedimiento, colocarse guantes estériles y luego proceder a la cura.",
+    "requiresReview": false
+  },
+  {
+    "id": 225,
+    "question": "¿Qué es el prurito?",
+    "options": {
+      "A": "Un tipo de exploración",
+      "B": "Es una enfermedad de transmisión sexual",
+      "C": "Dolor al rascarse",
+      "D": "Un picor intenso"
+    },
+    "correctAnswer": "D",
+    "explanation": "El prurito es la sensación de picor intenso en la piel que provoca el deseo irresistible de rascarse. Puede ser síntoma de diversas afecciones cutáneas o sistémicas.",
+    "requiresReview": false
+  },
+  {
+    "id": 226,
+    "question": "La cama que se prepara para recibir a un paciente en el post operatorio inmediato se conoce con el nombre de:",
+    "options": {
+      "A": "Cama vacía",
+      "B": "Cama cerrada",
+      "C": "Cama ocupada",
+      "D": "Cama de anestesia o recuperación"
+    },
+    "correctAnswer": "D",
+    "explanation": "La cama de anestesia o recuperación es la preparada especialmente para recibir al paciente post-operatorio, con características específicas para su seguridad durante el despertar de la anestesia.",
+    "requiresReview": false
+  },
+  {
+    "id": 227,
+    "question": "Instancia que representa la rectoría en el nuevo sistema de salud a nivel local:",
+    "options": {
+      "A": "El Servicio Nacional de Salud",
+      "B": "Direcciones Provinciales de Salud",
+      "C": "Zona de salud",
+      "D": "Los servicios regionales de salud"
+    },
+    "correctAnswer": "C",
+    "explanation": "La Zona de Salud representa la rectoría del sistema de salud a nivel local en el nuevo modelo de atención de República Dominicana.",
+    "requiresReview": false
+  },
+  {
+    "id": 228,
+    "question": "¿Cómo haría usted para recoger una muestra de orina para un urocultivo?",
+    "options": {
+      "A": "Recolectar la orina de 24 horas en un frasco estéril y llevarla al laboratorio",
+      "B": "Eliminar el primer chorro y recoger el segundo en un frasco estéril",
+      "C": "Pedirle al paciente que orine y recoger el primer chorro",
+      "D": "Lavar la zona genital, pedir al paciente que orine, descartar el primer chorro y recoger en un frasco estéril una muestra de la orina media"
+    },
+    "correctAnswer": "D",
+    "explanation": "La técnica correcta para urocultivo es: higiene genital, descartar el primer chorro (que puede estar contaminado) y recolectar la orina de la mitad de la micción en frasco estéril.",
+    "requiresReview": false
+  },
+  {
+    "id": 229,
+    "question": "¿Cuáles son las cuatro técnicas o actividades que se utilizan durante la exploración o valoración física de enfermería?",
+    "options": {
+      "A": "Palpación, percusión, valoración, auscultación",
+      "B": "Percusión, palpación, inspección, entrevista",
+      "C": "Observación, palpación, percusión, auscultación",
+      "D": "Valoración, observación, evaluación, medición"
+    },
+    "correctAnswer": "C",
+    "explanation": "Las cuatro técnicas de exploración física son: inspección (observación), palpación, percusión y auscultación.",
+    "requiresReview": false
+  },
+  {
+    "id": 230,
+    "question": "Son normas generales para la movilización de un enfermo:",
+    "options": {
+      "A": "Conocer si la movilización está o no contraindicada",
+      "B": "Lavarse las manos para evitar contagios",
+      "C": "Proteger el sistema de tubos o sondas que tenga incorporado el enfermo antes de su movilización",
+      "D": "Todas son correctas"
+    },
+    "correctAnswer": "D",
+    "explanation": "Antes de movilizar a un paciente se debe: verificar que no está contraindicado, lavarse las manos y asegurar los dispositivos médicos (sondas, catéteres, drenajes).",
+    "requiresReview": false
+  },
+  {
+    "id": 231,
+    "question": "Como medidas preventivas contra la aparición de las úlceras de presión podemos citar:",
+    "options": {
+      "A": "Evitar que los enfermos permanezcan muchas horas en la misma posición, movilizándolos continuamente para que sus puntos de apoyo varíen",
+      "B": "Solucionar mediante sondaje la incontinencia urinaria o fecal",
+      "C": "Levantar a los enfermos si es posible de forma precoz",
+      "D": "Todas las anteriores"
+    },
+    "correctAnswer": "D",
+    "explanation": "La prevención de úlceras por presión requiere: cambios posturales frecuentes, manejo de la incontinencia y movilización precoz del paciente.",
+    "requiresReview": false
+  },
+  {
+    "id": 232,
+    "question": "Una de las zonas de aplicación de las inyecciones intramusculares es la ventroglútea. ¿En dónde se localiza dicha zona?",
+    "options": {
+      "A": "En el músculo glúteo mayor, que descansa sobre el glúteo menor",
+      "B": "En el músculo glúteo menor, que descansa sobre el glúteo medio",
+      "C": "En el músculo glúteo menor, que descansa sobre el glúteo mayor",
+      "D": "En el músculo glúteo mediano, que descansa sobre el glúteo menor"
+    },
+    "correctAnswer": "D",
+    "explanation": "La zona ventroglútea se localiza en el músculo glúteo mediano (que descansa sobre el glúteo menor), en la cara lateral de la cadera. Es un sitio seguro lejos del nervio ciático.",
+    "requiresReview": false
+  },
+  {
+    "id": 233,
+    "question": "¿Cómo se denomina al fármaco que interactúa con un receptor para producir una respuesta?",
+    "options": {
+      "A": "Antagonista específico",
+      "B": "Paliativo",
+      "C": "Curativo",
+      "D": "Agonista"
+    },
+    "correctAnswer": "D",
+    "explanation": "Un agonista es un fármaco que se une a un receptor y activa una respuesta biológica. El antagonista se une al receptor pero no produce respuesta (bloquea al agonista).",
+    "requiresReview": false
+  },
+  {
+    "id": 234,
+    "question": "Según la OMS, el concepto salud se define como:",
+    "options": {
+      "A": "No es la ausencia de enfermedad",
+      "B": "El estado físico, psíquico y social de bienestar completo",
+      "C": "Un estado de bienestar completo",
+      "D": "Todas son ciertas"
+    },
+    "correctAnswer": "D",
+    "explanation": "La OMS define la salud como 'un estado de completo bienestar físico, mental y social, y no solamente la ausencia de afecciones o enfermedades'. Todas las opciones son aspectos de esta definición.",
+    "requiresReview": false
+  },
+  {
+    "id": 235,
+    "question": "¿Para qué sirve un antipirétic?",
+    "options": {
+      "A": "Para reducir la temperatura corporal",
+      "B": "Para calmar el dolor",
+      "C": "Para facilitar la orina",
+      "D": "Para facilitar las heces"
+    },
+    "correctAnswer": "A",
+    "explanation": "Los antipiréticos son medicamentos que reducen la fiebre (temperatura corporal elevada). Ejemplos: acetaminofén (paracetamol), ibuprofeno, aspirina.",
+    "requiresReview": false
+  },
+  {
+    "id": 236,
+    "question": "Una observación importante que debe hacer la auxiliar de enfermería respecto al pulso de un paciente es:",
+    "options": {
+      "A": "Frecuencia, Ritmo, Profundidad y Sibilancia",
+      "B": "La presencia o ausencia de sonidos",
+      "C": "Frecuencia, Llenado arterial, Intensidad del llenado arterial",
+      "D": "Tono, Intensidad y Ruidos"
+    },
+    "correctAnswer": "C",
+    "explanation": "Al valorar el pulso se deben evaluar: frecuencia (latidos/min), ritmo (regular/irregular), llenado arterial (amplitud) e intensidad. Estos son los parámetros clínicos del pulso.",
+    "requiresReview": false
+  },
+  {
+    "id": 237,
+    "question": "¿Cuáles son las primeras medidas que tomaría frente a una persona que ha sufrido un paro cardio-respiratorio en su hogar o comunidad?",
+    "options": {
+      "A": "Verificar si hay ausencia de los latidos cardíacos y de la respiración",
+      "B": "Avisar a los servicios médicos de urgencia",
+      "C": "Verificar que no exista obstrucción de las vías aéreas e iniciar maniobras de primeros auxilios (reanimación cardio-pulmonar), hasta que el personal médico llegue al lugar del accidente",
+      "D": "Todas son correctas"
+    },
+    "correctAnswer": "D",
+    "explanation": "Ante un paro cardiorrespiratorio se debe: verificar signos vitales ausentes, activar el servicio de emergencias y comenzar RCP hasta la llegada de personal cualificado.",
+    "requiresReview": false
+  },
+  {
+    "id": 238,
+    "question": "Cuando la madre de un niño menor de cinco años no acude a la cita para completar su esquema de vacunación, usted debe:",
+    "options": {
+      "A": "No darle importancia e informar a su supervisora",
+      "B": "Colocar la tarjeta en el archivo y esperar que la madre decida llevarlo a la consulta",
+      "C": "Visitar el hogar del niño",
+      "D": "Darle de alta del programa de control"
+    },
+    "correctAnswer": "C",
+    "explanation": "Cuando un niño no completa su esquema de vacunación, el auxiliar de enfermería debe realizar una visita domiciliaria para identificar las barreras y garantizar la inmunización.",
+    "requiresReview": false
+  },
+  {
+    "id": 239,
+    "question": "¿Cómo se llama el derrame serosanguinolento que aparece por la vagina días después del parto?",
+    "options": {
+      "A": "Edema",
+      "B": "Exudado",
+      "C": "Loquios",
+      "D": "Metrorragia"
+    },
+    "correctAnswer": "C",
+    "explanation": "Los loquios son el flujo vaginal que aparece tras el parto, compuesto por sangre, tejido necrótico y moco cervical. Evolucionan de rojos (loquios rubra) a blancos en varias semanas.",
+    "requiresReview": false
+  },
+  {
+    "id": 240,
+    "question": "Indicar los factores que modifican la frecuencia del pulso:",
+    "options": {
+      "A": "Temperatura",
+      "B": "Edad",
+      "C": "Ejercicio",
+      "D": "Todas las anteriores"
+    },
+    "correctAnswer": "D",
+    "explanation": "La frecuencia cardíaca (pulso) se ve modificada por: la temperatura corporal, la edad (más rápido en niños), el ejercicio físico, las emociones, los medicamentos y el estado de salud.",
+    "requiresReview": false
+  },
+  {
+    "id": 241,
+    "question": "La prueba que estudia la función respiratoria se llama:",
+    "options": {
+      "A": "Endoscopía",
+      "B": "Fibrobroncoscopía",
+      "C": "Espirometría",
+      "D": "Broncoscopía"
+    },
+    "correctAnswer": "C",
+    "explanation": "La espirometría es la prueba diagnóstica que evalúa la función pulmonar, midiendo los volúmenes y flujos de aire para detectar enfermedades respiratorias.",
+    "requiresReview": false
+  },
+  {
+    "id": 242,
+    "question": "¿Qué es lo último que debe lavarse al realizar el aseo del paciente encamado?",
+    "options": {
+      "A": "Las nalgas",
+      "B": "Los pies",
+      "C": "La región genital",
+      "D": "La cara"
+    },
+    "correctAnswer": "C",
+    "explanation": "En el aseo del paciente encamado, la región genital (y anal/perineal) debe ser la última en lavarse, para evitar contaminar otras áreas del cuerpo con microorganismos de la zona perineal.",
+    "requiresReview": false
+  },
+  {
+    "id": 243,
+    "question": "Cuando la auxiliar de enfermería detecta en la comunidad alguna situación que produzca riesgos o daño a la salud de la persona:",
+    "options": {
+      "A": "Refiere a un especialista",
+      "B": "Elimina la situación de riesgo",
+      "C": "Realiza una movilización social",
+      "D": "Notifica a la UNAP de la comunidad"
+    },
+    "correctAnswer": "D",
+    "explanation": "El auxiliar de enfermería comunitario debe notificar a la UNAP (Unidad de Atención Primaria) correspondiente cuando detecta situaciones de riesgo para la salud en la comunidad.",
+    "requiresReview": false
+  },
+  {
+    "id": 244,
+    "question": "¿En qué color anotarías la temperatura en la gráfica del enfermo?",
+    "options": {
+      "A": "Rojo",
+      "B": "Azul",
+      "C": "Negro",
+      "D": "Verde"
+    },
+    "correctAnswer": "A",
+    "explanation": "Convencionalmente en las gráficas clínicas, la temperatura se registra en rojo, el pulso en azul y la presión arterial en verde/negro.",
+    "requiresReview": false
+  },
+  {
+    "id": 245,
+    "question": "Entre el auxiliar de enfermería y el paciente surge una relación de comunicación:",
+    "options": {
+      "A": "Por el contacto continuo y directo entre ambos",
+      "B": "Por el contacto esporádico y directo entre ambos",
+      "C": "Por el contacto continuo e indirecto entre ambos",
+      "D": "Por el contacto esporádico e indirecto entre ambos"
+    },
+    "correctAnswer": "A",
+    "explanation": "La relación terapéutica entre el auxiliar de enfermería y el paciente se caracteriza por el contacto continuo (durante el turno) y directo (cara a cara) que permite la comunicación constante.",
+    "requiresReview": false
+  },
+  {
+    "id": 246,
+    "question": "¿Cuánto tiempo debemos esperar para leer la temperatura? ¿Bucal?",
+    "options": {
+      "A": "Depende de la corpulencia del paciente",
+      "B": "10 minutos aproximadamente",
+      "C": "1 minuto",
+      "D": "Entre 4 y 6 minutos"
+    },
+    "correctAnswer": "D",
+    "explanation": "La temperatura oral (bucal) se lee después de mantener el termómetro en boca con los labios cerrados durante 4 a 6 minutos (con termómetro de mercurio).",
+    "requiresReview": false
+  },
+  {
+    "id": 247,
+    "question": "¿Cómo se denomina la técnica de añadir un disolvente a un fármaco en polvo a fin de prepararlo para su administración?",
+    "options": {
+      "A": "Reconstrucción",
+      "B": "Preparación",
+      "C": "Reconstitución",
+      "D": "Dilución"
+    },
+    "correctAnswer": "C",
+    "explanation": "La reconstitución es el proceso de añadir un disolvente (agua para inyección, suero fisiológico) a un fármaco liofilizado (en polvo) para prepararlo para su administración parenteral.",
+    "requiresReview": false
+  }
+]

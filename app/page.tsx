@@ -1,65 +1,185 @@
-import Image from "next/image";
+'use client'
 
-export default function Home() {
-  return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
-        </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
+import { useState } from "react"
+import { useExam } from "@/hook/useExam"
+
+export default function HomePage() {
+  const {
+    currentQuestion,
+    answerQuestion,
+    nextQuestion,
+    resetExam,
+    correctCount,
+    incorrectCount,
+    answeredIds,
+    totalQuestions,
+    loading,
+    error
+  } = useExam()
+
+  const [feedback, setFeedback] = useState<null | {
+    isCorrect: boolean
+    correctAnswer: string
+    explanation: string
+  }>(null)
+
+  const [answered, setAnswered] = useState(false)
+
+  function copyQuestion() {
+    if (!currentQuestion) return
+    navigator.clipboard.writeText(currentQuestion.question)
+  }
+
+  function handleAnswer(key: string) {
+    if (answered) return
+
+    const result = answerQuestion(key)
+    if (!result) return
+
+    setFeedback({
+      isCorrect: result.isCorrect,
+      correctAnswer: result.correctAnswer,
+      explanation: result.explanation
+    })
+
+    setAnswered(true)
+  }
+
+  function handleNext() {
+    setFeedback(null)      // 🔥 limpia banner
+    setAnswered(false)     // 🔥 desbloquea respuestas
+    nextQuestion()
+  }
+
+  if (loading) {
+    return (
+      <main className="container">
+        <div className="card">
+          <h1>Cargando preguntas...</h1>
         </div>
       </main>
-    </div>
-  );
+    )
+  }
+
+  if (error) {
+    return (
+      <main className="container">
+        <div className="card">
+          <h1>{error}</h1>
+        </div>
+      </main>
+    )
+  }
+
+  if (!currentQuestion) {
+    return (
+      <main className="container">
+        <div className="card">
+          <h1>No hay preguntas disponibles</h1>
+          <button onClick={resetExam}>Reiniciar</button>
+        </div>
+      </main>
+    )
+  }
+
+  return (
+    <main className="container">
+      <div className="card">
+
+        <div className="header">
+          <h1>Examen de Enfermería</h1>
+          <p>Practica tus conocimientos de forma interactiva</p>
+        </div>
+
+        <div className="stats">
+          <div className="stat">
+            <span>Total</span>
+            <strong>{totalQuestions}</strong>
+          </div>
+
+          <div className="stat">
+            <span>Correctas</span>
+            <strong>{correctCount}</strong>
+          </div>
+
+          <div className="stat">
+            <span>Incorrectas</span>
+            <strong>{incorrectCount}</strong>
+          </div>
+
+          <div className="stat">
+            <span>Pendientes</span>
+            <strong>{totalQuestions - answeredIds.length}</strong>
+          </div>
+        </div>
+
+        <div className="question">
+          <div className="question-number">
+            Pregunta #{currentQuestion.id}
+          </div>
+
+          <h2>{currentQuestion.question}</h2>
+
+          {/* 🔥 BANNER MINI (SOLO SI EXISTE FEEDBACK) */}
+          {feedback && (
+            <div
+              style={{
+                padding: "10px 12px",
+                margin: "12px 0",
+                borderRadius: "10px",
+                fontSize: "14px",
+                background: feedback.isCorrect ? "#e8fff0" : "#fff1f1",
+                border: feedback.isCorrect
+                  ? "1px solid #22c55e"
+                  : "1px solid #ef4444"
+              }}
+            >
+              <strong>
+                {feedback.isCorrect ? "✔ Correcto" : "❌ Incorrecto"}
+              </strong>
+
+              {!feedback.isCorrect && (
+                <div style={{ marginTop: 6 }}>
+                  <strong>Correcta:</strong> {feedback.correctAnswer}
+                </div>
+              )}
+
+              <div style={{ marginTop: 6, color: "#555" }}>
+                {feedback.explanation}
+              </div>
+            </div>
+          )}
+
+          <div className="options">
+            {Object.entries(currentQuestion.options).map(
+              ([key, value]) => (
+                <button
+                  key={key}
+                  disabled={answered}   // 🔥 bloquea doble respuesta
+                  onClick={() => handleAnswer(key)}
+                >
+                  {key}. {value}
+                </button>
+              )
+            )}
+          </div>
+        </div>
+
+        <div className="actions">
+          <button
+            className="primary"
+            onClick={handleNext}
+            disabled={!feedback}   // 🔥 solo siguiente si ya respondió
+          >
+            Siguiente
+          </button>
+
+          <button className="secondary" onClick={resetExam}>
+            Reiniciar examen
+          </button>
+        </div>
+
+      </div>
+    </main>
+  )
 }
